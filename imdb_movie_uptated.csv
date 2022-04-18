@@ -1,0 +1,996 @@
+movie_name,release_year,runtime,director,genre1,genre2,genre3,rating,metascore,budget,gross,user_reviews,critic_reviews
+Avatar,2009,162.0,James Cameron,Action,Adventure,Fantasy,7.8,83.0,237000000.0,2847379794.0,3500.0,479.0
+Avengers: Endgame,2019,181.0,Anthony Russo,Action,Adventure,Drama,8.4,78.0,356000000.0,2797501328.0,9400.0,589.0
+Titanic,1997,194.0,James Cameron,Drama,Romance,-,7.9,75.0,200000000.0,2201647264.0,3100.0,331.0
+Star Wars: Episode VII - The Force Awakens,2015,138.0,J.J. Abrams,Action,Adventure,Sci-Fi,7.9,80.0,245000000.0,2069521700.0,5000.0,909.0
+Avengers: Infinity War,2018,149.0,Anthony Russo,Action,Adventure,Sci-Fi,8.5,68.0,321000000.0,2048359754.0,4500.0,626.0
+Spider-Man: No Way Home,2021,148.0,Jon Watts,Action,Adventure,Fantasy,8.4,71.0,200000000.0,1892220052.0,5700.0,375.0
+Jurassic World,2015,124.0,Colin Trevorrow,Action,Adventure,Sci-Fi,7.0,59.0,150000000.0,1671537444.0,1600.0,695.0
+The Lion King,2019,118.0,Jon Favreau,Animation,Adventure,Drama,6.8,55.0,260000000.0,1662899439.0,3000.0,387.0
+The Avengers,2012,143.0,Joss Whedon,Action,Adventure,Sci-Fi,8.0,69.0,220000000.0,1518815515.0,2000.0,750.0
+Furious 7,2015,137.0,James Wan,Action,Crime,Thriller,7.1,67.0,190000000.0,1515341399.0,788.0,460.0
+Frozen II,2019,103.0,Chris Buck,Animation,Adventure,Comedy,6.8,64.0,150000000.0,1450026933.0,1400.0,289.0
+Avengers: Age of Ultron,2015,141.0,Joss Whedon,Action,Adventure,Sci-Fi,7.3,66.0,250000000.0,1402809540.0,1400.0,700.0
+Black Panther,2018,134.0,Ryan Coogler,Action,Adventure,Sci-Fi,7.3,88.0,200000000.0,1347597973.0,3400.0,510.0
+Harry Potter and the Deathly Hallows: Part 2,2011,130.0,David Yates,Adventure,Fantasy,Mystery,8.1,85.0,125000000.0,1342359942.0,1000.0,488.0
+Star Wars: Episode VIII - The Last Jedi,2017,152.0,Rian Johnson,Action,Adventure,Fantasy,6.9,84.0,317000000.0,1332698830.0,7000.0,723.0
+Jurassic World: Fallen Kingdom,2018,128.0,J.A. Bayona,Action,Adventure,Sci-Fi,6.2,51.0,170000000.0,1310466296.0,1900.0,459.0
+Frozen,2013,102.0,Chris Buck,Animation,Adventure,Comedy,7.5,75.0,150000000.0,1281508100.0,1200.0,445.0
+Beauty and the Beast,2017,129.0,Bill Condon,Adventure,Family,Fantasy,7.1,65.0,160000000.0,1273576220.0,1200.0,524.0
+Incredibles 2,2018,118.0,Brad Bird,Animation,Action,Adventure,7.6,80.0,200000000.0,1243089244.0,1100.0,404.0
+The Fate of the Furious,2017,136.0,F. Gary Gray,Action,Crime,Thriller,6.6,56.0,250000000.0,1236005118.0,663.0,440.0
+Iron Man 3,2013,130.0,Shane Black,Action,Adventure,Sci-Fi,7.2,62.0,200000000.0,1214811252.0,1400.0,646.0
+Minions,2015,91.0,Kyle Balda,Animation,Adventure,Comedy,6.4,56.0,74000000.0,1159444662.0,382.0,342.0
+Captain America: Civil War,2016,147.0,Anthony Russo,Action,Adventure,Sci-Fi,7.8,75.0,250000000.0,1153337496.0,1500.0,674.0
+Aquaman,2018,143.0,James Wan,Action,Adventure,Fantasy,6.8,55.0,160000000.0,1148528393.0,4400.0,462.0
+The Lord of the Rings: The Return of the King,2003,201.0,Peter Jackson,Action,Adventure,Drama,9.0,94.0,94000000.0,1146436214.0,4000.0,340.0
+Spider-Man: Far from Home,2019,129.0,Jon Watts,Action,Adventure,Sci-Fi,7.4,69.0,160000000.0,1131927996.0,2300.0,439.0
+Captain Marvel,2019,123.0,Anna Boden,Action,Adventure,Sci-Fi,6.8,64.0,160000000.0,1128462972.0,7300.0,539.0
+Transformers: Dark of the Moon,2011,154.0,Michael Bay,Action,Adventure,Sci-Fi,6.2,42.0,195000000.0,1123794079.0,980.0,432.0
+Skyfall,2012,143.0,Sam Mendes,Action,Adventure,Thriller,7.8,81.0,200000000.0,1108569499.0,1700.0,541.0
+Transformers: Age of Extinction,2014,165.0,Michael Bay,Action,Adventure,Sci-Fi,5.6,32.0,210000000.0,1104054072.0,1000.0,466.0
+The Dark Knight Rises,2012,164.0,Christopher Nolan,Action,Crime,Drama,8.4,78.0,250000000.0,1081153097.0,3600.0,559.0
+Joker,2019,122.0,Todd Phillips,Crime,Drama,Thriller,8.4,59.0,55000000.0,1074445730.0,11300.0,694.0
+Star Wars: Episode IX - The Rise of Skywalker,2019,141.0,J.J. Abrams,Action,Adventure,Fantasy,6.5,53.0,275000000.0,1074149279.0,7900.0,524.0
+Toy Story 4,2019,100.0,Josh Cooley,Animation,Adventure,Comedy,7.7,84.0,200000000.0,1073394593.0,1300.0,396.0
+Toy Story 3,2010,103.0,Lee Unkrich,Animation,Adventure,Comedy,8.3,92.0,200000000.0,1066970811.0,955.0,465.0
+Pirates of the Caribbean: Dead Man's Chest,2006,151.0,Gore Verbinski,Action,Adventure,Fantasy,7.3,53.0,225000000.0,1066179747.0,1900.0,318.0
+The Lion King,1994,88.0,Roger Allers,Animation,Adventure,Drama,8.5,88.0,45000000.0,1063611805.0,1100.0,227.0
+Rogue One: A Star Wars Story,2016,133.0,Gareth Edwards,Action,Adventure,Sci-Fi,7.8,65.0,200000000.0,1056057720.0,1900.0,718.0
+Aladdin,2019,128.0,Guy Ritchie,Adventure,Comedy,Family,6.9,53.0,183000000.0,1050693953.0,2400.0,364.0
+Pirates of the Caribbean: On Stranger Tides,2011,136.0,Rob Marshall,Action,Adventure,Fantasy,6.6,45.0,250000000.0,1045713802.0,579.0,465.0
+Despicable Me 3,2017,89.0,Kyle Balda,Animation,Adventure,Comedy,6.2,49.0,80000000.0,1034800131.0,241.0,211.0
+Jurassic Park,1993,127.0,Steven Spielberg,Action,Adventure,Sci-Fi,8.2,68.0,63000000.0,1099428303.0,1300.0,242.0
+Finding Dory,2016,97.0,Andrew Stanton,Animation,Adventure,Comedy,7.3,77.0,200000000.0,1028570942.0,478.0,426.0
+Star Wars: Episode I - The Phantom Menace,1999,136.0,George Lucas,Action,Adventure,Fantasy,6.5,51.0,115000000.0,1027082707.0,3900.0,360.0
+Alice in Wonderland,2010,108.0,Tim Burton,Adventure,Family,Fantasy,6.4,53.0,200000000.0,1025468216.0,829.0,457.0
+Zootopia,2016,108.0,Byron Howard,Animation,Adventure,Comedy,8.0,78.0,150000000.0,1024121104.0,828.0,488.0
+Harry Potter and the Sorcerer's Stone,2001,152.0,Chris Columbus,Adventure,Family,Fantasy,7.6,65.0,125000000.0,1017713119.0,1900.0,275.0
+The Hobbit: An Unexpected Journey,2012,169.0,Peter Jackson,Adventure,Fantasy,-,7.8,58.0,180000000.0,1017030651.0,1500.0,668.0
+The Dark Knight,2008,152.0,Christopher Nolan,Action,Crime,Drama,9.0,84.0,185000000.0,1006102277.0,8000.0,434.0
+Harry Potter and the Deathly Hallows: Part 1,2010,146.0,David Yates,Adventure,Family,Fantasy,7.7,65.0,150000000.0,977070383.0,758.0,440.0
+Despicable Me 2,2013,98.0,Pierre Coffin,Animation,Adventure,Comedy,7.3,62.0,76000000.0,970766005.0,347.0,322.0
+The Jungle Book,2016,106.0,Jon Favreau,Adventure,Drama,Family,7.4,77.0,175000000.0,966554929.0,632.0,461.0
+Jumanji: Welcome to the Jungle,2017,119.0,Jake Kasdan,Action,Adventure,Comedy,6.9,58.0,90000000.0,962542945.0,980.0,319.0
+The Hobbit: The Battle of the Five Armies,2014,144.0,Peter Jackson,Adventure,Fantasy,-,7.4,59.0,250000000.0,962201338.0,940.0,462.0
+Pirates of the Caribbean: At World's End,2007,169.0,Gore Verbinski,Action,Adventure,Fantasy,7.1,50.0,300000000.0,960996492.0,1300.0,327.0
+The Hobbit: The Desolation of Smaug,2013,161.0,Peter Jackson,Adventure,Fantasy,-,7.8,66.0,225000000.0,959027992.0,1000.0,538.0
+The Lord of the Rings: The Two Towers,2002,179.0,Peter Jackson,Action,Adventure,Drama,8.8,87.0,94000000.0,947896241.0,2600.0,314.0
+Harry Potter and the Order of the Phoenix,2007,138.0,David Yates,Action,Adventure,Family,7.5,71.0,150000000.0,942201710.0,1200.0,345.0
+Finding Nemo,2003,100.0,Andrew Stanton,Animation,Adventure,Comedy,8.2,90.0,94000000.0,940352645.0,1000.0,162.0
+Harry Potter and the Half-Blood Prince,2009,153.0,David Yates,Action,Adventure,Family,7.6,78.0,250000000.0,934483039.0,1100.0,391.0
+Shrek 2,2004,93.0,Andrew Adamson,Animation,Adventure,Comedy,7.3,75.0,150000000.0,928760770.0,616.0,191.0
+Bohemian Rhapsody,2018,134.0,Bryan Singer,Biography,Drama,Music,7.9,49.0,52000000.0,910809311.0,3500.0,423.0
+The Battle at Lake Changjin,2021,176.0,Kaige Chen,Action,Drama,History,5.3,,200000000.0,902540935.0,99.0,8.0
+The Lord of the Rings: The Fellowship of the Ring,2001,178.0,Peter Jackson,Action,Adventure,Drama,8.8,92.0,93000000.0,898094742.0,5600.0,213.0
+Harry Potter and the Goblet of Fire,2005,157.0,Mike Newell,Adventure,Family,Fantasy,7.7,81.0,150000000.0,896730264.0,2000.0,312.0
+Spider-Man 3,2007,139.0,Sam Raimi,Action,Adventure,Sci-Fi,6.2,59.0,258000000.0,894983373.0,2200.0,416.0
+Ice Age 3: Dawn of the Dinosaurs,2009,94.0,Carlos Saldanha,Animation,Adventure,Comedy,6.9,50.0,90000000.0,886686817.0,167.0,178.0
+Spectre,2015,148.0,Sam Mendes,Action,Adventure,Thriller,6.8,60.0,245000000.0,880681519.0,1200.0,465.0
+Spider-Man: Homecoming,2017,133.0,Jon Watts,Action,Adventure,Sci-Fi,7.4,73.0,175000000.0,880166924.0,1500.0,587.0
+Harry Potter and the Chamber of Secrets,2002,161.0,Chris Columbus,Adventure,Family,Fantasy,7.4,63.0,100000000.0,879793867.0,1000.0,242.0
+Ice Age 4: Continental Drift,2012,88.0,Steve Martino,Animation,Adventure,Comedy,6.5,49.0,95000000.0,877244782.0,171.0,228.0
+The Secret Life of Pets,2016,87.0,Chris Renaud,Animation,Adventure,Comedy,6.5,61.0,75000000.0,875458631.0,348.0,295.0
+Batman v Superman: Dawn of Justice,2016,152.0,Zack Snyder,Action,Adventure,Sci-Fi,6.5,44.0,250000000.0,873637528.0,4100.0,819.0
+Wolf Warrior 2,2017,123.0,Jing Wu,Action,Adventure,Drama,5.9,44.0,30100000.0,870325439.0,92.0,41.0
+Star Wars: Episode III - Revenge of the Sith,2005,140.0,George Lucas,Action,Adventure,Fantasy,7.6,68.0,113000000.0,868390560.0,3700.0,393.0
+The Hunger Games: Catching Fire,2013,146.0,Francis Lawrence,Action,Adventure,Drama,7.5,76.0,130000000.0,865011746.0,769.0,522.0
+Guardians of the Galaxy Vol. 2,2017,136.0,James Gunn,Action,Adventure,Comedy,7.6,67.0,200000000.0,863756051.0,1100.0,596.0
+Inside Out,2015,95.0,Pete Docter,Animation,Adventure,Comedy,8.2,94.0,175000000.0,858848019.0,1100.0,593.0
+Venom,2018,112.0,Ruben Fleischer,Action,Adventure,Sci-Fi,6.6,35.0,100000000.0,856085151.0,3900.0,432.0
+Thor: Ragnarok,2017,130.0,Taika Waititi,Action,Adventure,Comedy,7.9,74.0,180000000.0,853983911.0,1800.0,456.0
+Inception,2010,148.0,Christopher Nolan,Action,Adventure,Sci-Fi,8.8,74.0,160000000.0,836848102.0,4500.0,480.0
+Transformers: Revenge of the Fallen,2009,149.0,Michael Bay,Action,Adventure,Sci-Fi,5.9,35.0,200000000.0,836303693.0,1500.0,374.0
+The Twilight Saga: Breaking Dawn - Part 2,2012,115.0,Bill Condon,Adventure,Drama,Fantasy,5.6,52.0,120000000.0,829747654.0,382.0,332.0
+Spider-Man,2002,121.0,Sam Raimi,Action,Adventure,Sci-Fi,7.4,73.0,139000000.0,825025036.0,2300.0,320.0
+Wonder Woman,2017,141.0,Patty Jenkins,Action,Adventure,Fantasy,7.4,76.0,149000000.0,822854286.0,2500.0,725.0
+"Hi, Mom",2021,128.0,Ling Jia,Comedy,Romance,-,7.0,,,822009764.0,44.0,3.0
+Independence Day,1996,145.0,Roland Emmerich,Action,Adventure,Sci-Fi,7.0,59.0,75000000.0,817400891.0,1000.0,197.0
+Fantastic Beasts and Where to Find Them,2016,132.0,David Yates,Adventure,Family,Fantasy,7.2,66.0,180000000.0,814044001.0,908.0,455.0
+Shrek the Third,2007,93.0,Chris Miller,Animation,Adventure,Comedy,6.1,58.0,160000000.0,813367380.0,409.0,213.0
+Coco,2017,105.0,Lee Unkrich,Animation,Adventure,Comedy,8.4,81.0,175000000.0,807817888.0,1300.0,415.0
+Jumanji: The Next Level,2019,123.0,Jake Kasdan,Action,Adventure,Comedy,6.7,58.0,125000000.0,800059707.0,1000.0,252.0
+Harry Potter and the Prisoner of Azkaban,2004,142.0,Alfonso Cuarón,Adventure,Family,Fantasy,7.9,82.0,130000000.0,797491273.0,1600.0,288.0
+Pirates of the Caribbean: Dead Men Tell No Tales,2017,129.0,Joachim Rønning,Action,Adventure,Fantasy,6.5,39.0,230000000.0,794881442.0,717.0,419.0
+E.T. the Extra-Terrestrial,1982,115.0,Steven Spielberg,Adventure,Family,Sci-Fi,7.9,91.0,10500000.0,792910554.0,680.0,253.0
+Mission: Impossible - Fallout,2018,147.0,Christopher McQuarrie,Action,Adventure,Thriller,7.7,86.0,178000000.0,791657398.0,1700.0,472.0
+2012,2009,158.0,Roland Emmerich,Action,Adventure,Sci-Fi,5.8,49.0,200000000.0,791217826.0,1300.0,246.0
+Indiana Jones and the Kingdom of the Crystal Skull,2008,122.0,Steven Spielberg,Action,Adventure,-,6.2,65.0,185000000.0,790653942.0,2200.0,467.0
+Spider-Man 2,2004,127.0,Sam Raimi,Action,Adventure,Sci-Fi,7.4,83.0,200000000.0,788976453.0,1600.0,324.0
+Fast & Furious 6,2013,130.0,Justin Lin,Action,Crime,Thriller,7.0,61.0,160000000.0,788680968.0,536.0,434.0
+Deadpool 2,2018,119.0,David Leitch,Action,Adventure,Comedy,7.7,66.0,110000000.0,785896609.0,1400.0,537.0
+Deadpool,2016,108.0,Tim Miller,Action,Adventure,Comedy,8.0,65.0,58000000.0,782836791.0,1500.0,666.0
+No Time to Die,2021,163.0,Cary Joji Fukunaga,Action,Adventure,Thriller,7.3,68.0,250000000.0,774153007.0,3800.0,450.0
+Guardians of the Galaxy,2014,121.0,James Gunn,Action,Adventure,Comedy,8.0,76.0,170000000.0,773350147.0,1500.0,727.0
+The Da Vinci Code,2006,149.0,Ron Howard,Mystery,Thriller,-,6.6,46.0,125000000.0,760006945.0,2000.0,306.0
+Fast & Furious Presents: Hobbs & Shaw,2019,137.0,David Leitch,Action,Adventure,Thriller,6.5,60.0,200000000.0,759056935.0,1300.0,319.0
+Maleficent,2014,97.0,Robert Stromberg,Adventure,Family,Fantasy,7.0,56.0,180000000.0,758411779.0,841.0,432.0
+The Amazing Spider-Man,2012,136.0,Marc Webb,Action,Adventure,Sci-Fi,6.9,66.0,230000000.0,757930663.0,1500.0,622.0
+The Hunger Games: Mockingjay - Part 1,2014,123.0,Francis Lawrence,Action,Adventure,Sci-Fi,6.6,64.0,125000000.0,755356711.0,647.0,429.0
+Shrek Forever After,2010,93.0,Mike Mitchell,Animation,Adventure,Comedy,6.3,58.0,165000000.0,752600867.0,259.0,215.0
+Madagascar 3: Europe's Most Wanted,2012,93.0,Eric Darnell,Animation,Adventure,Comedy,6.8,60.0,145000000.0,746921274.0,218.0,216.0
+Suicide Squad,2016,123.0,David Ayer,Action,Adventure,Fantasy,5.9,40.0,175000000.0,746846894.0,2500.0,690.0
+X-Men: Days of Future Past,2014,132.0,Bryan Singer,Action,Adventure,Sci-Fi,8.0,75.0,200000000.0,746045700.0,880.0,574.0
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,143.0,Andrew Adamson,Adventure,Family,Fantasy,6.9,75.0,180000000.0,745013115.0,1600.0,260.0
+Monsters University,2013,104.0,Dan Scanlon,Animation,Adventure,Comedy,7.3,65.0,200000000.0,743559645.0,367.0,386.0
+The Matrix Reloaded,2003,138.0,Lana Wachowski,Action,Sci-Fi,-,7.2,62.0,150000000.0,741847937.0,2900.0,179.0
+Up,2009,96.0,Pete Docter,Animation,Adventure,Comedy,8.3,88.0,175000000.0,735099102.0,1000.0,409.0
+Ne Zha,2019,110.0,Yu Yang,Animation,Action,Adventure,7.4,54.0,,726264074.0,98.0,27.0
+F9: The Fast Saga,2021,143.0,Justin Lin,Action,Crime,Thriller,5.2,58.0,200000000.0,726229501.0,2300.0,276.0
+Gravity,2013,91.0,Alfonso Cuarón,Action,Drama,Sci-Fi,7.7,96.0,100000000.0,723192705.0,2200.0,784.0
+Captain America: The Winter Soldier,2014,136.0,Anthony Russo,Action,Adventure,Sci-Fi,7.8,70.0,170000000.0,714421503.0,1000.0,617.0
+The Twilight Saga: Breaking Dawn - Part 1,2011,117.0,Bill Condon,Adventure,Drama,Fantasy,4.9,45.0,110000000.0,712205856.0,433.0,325.0
+The Twilight Saga: New Moon,2009,130.0,Chris Weitz,Adventure,Drama,Fantasy,4.7,44.0,50000000.0,711025481.0,789.0,296.0
+Dawn of the Planet of the Apes,2014,130.0,Matt Reeves,Action,Adventure,Drama,7.6,79.0,170000000.0,710644566.0,708.0,555.0
+Transformers,2007,144.0,Michael Bay,Action,Adventure,Sci-Fi,7.0,61.0,150000000.0,709709780.0,1900.0,389.0
+The Amazing Spider-Man 2,2014,142.0,Marc Webb,Action,Adventure,Sci-Fi,6.6,53.0,200000000.0,708982323.0,1300.0,542.0
+It,2017,135.0,Andy Muschietti,Horror,-,-,7.3,69.0,35000000.0,701842551.0,2000.0,630.0
+Interstellar,2014,169.0,Christopher Nolan,Adventure,Drama,Sci-Fi,8.6,74.0,165000000.0,701729206.0,5000.0,630.0
+The Wandering Earth,2019,125.0,Frant Gwo,Action,Adventure,Sci-Fi,5.9,57.0,48000000.0,699992512.0,813.0,73.0
+The Twilight Saga: Eclipse,2010,124.0,David Slade,Action,Adventure,Drama,5.0,58.0,68000000.0,698491347.0,508.0,286.0
+Mission: Impossible - Ghost Protocol,2011,132.0,Brad Bird,Action,Adventure,Thriller,7.4,73.0,145000000.0,694713380.0,623.0,289.0
+The Hunger Games,2012,142.0,Gary Ross,Action,Adventure,Sci-Fi,7.2,68.0,78000000.0,694394724.0,2100.0,437.0
+Detective Chinatown 3,2021,136.0,Sicheng Chen,Action,Adventure,Comedy,5.6,,116630000.0,686257563.0,13.0,7.0
+Mission: Impossible - Rogue Nation,2015,131.0,Christopher McQuarrie,Action,Adventure,Thriller,7.4,75.0,150000000.0,682716636.0,564.0,511.0
+Forrest Gump,1994,142.0,Robert Zemeckis,Drama,Romance,-,8.8,82.0,55000000.0,678226133.0,2900.0,171.0
+Doctor Strange,2016,115.0,Scott Derrickson,Action,Adventure,Fantasy,7.5,72.0,165000000.0,677796076.0,1100.0,492.0
+The Sixth Sense,1999,107.0,M. Night Shyamalan,Drama,Mystery,Thriller,8.2,64.0,40000000.0,672806432.0,2300.0,260.0
+Man of Steel,2013,143.0,Zack Snyder,Action,Adventure,Sci-Fi,7.1,55.0,225000000.0,668045518.0,3000.0,769.0
+Ice Age 2: The Meltdown,2006,91.0,Carlos Saldanha,Animation,Adventure,Comedy,6.8,60.0,80000000.0,667094506.0,288.0,69.0
+Kung Fu Panda 2,2011,90.0,Jennifer Yuh Nelson,Animation,Action,Adventure,7.2,67.0,150000000.0,665692281.0,276.0,279.0
+The Hunger Games: Mockingjay - Part 2,2015,137.0,Francis Lawrence,Action,Adventure,Sci-Fi,6.5,65.0,160000000.0,658344137.0,511.0,430.0
+Justice League,2017,,Zack Snyder,Action,Adventure,Fantasy,6.1,45.0,300000000.0,657926987.0,2300.0,450.0
+Big Hero 6,2014,102.0,Don Hall,Animation,Action,Adventure,7.8,74.0,165000000.0,657869686.0,613.0,417.0
+Fantastic Beasts: The Crimes of Grindelwald,2018,134.0,David Yates,Adventure,Family,Fantasy,6.5,52.0,200000000.0,654855901.0,1500.0,349.0
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,143.0,Gore Verbinski,Action,Adventure,Fantasy,8.0,63.0,140000000.0,654264015.0,2300.0,180.0
+Star Wars: Episode II - Attack of the Clones,2002,142.0,George Lucas,Action,Adventure,Fantasy,6.6,54.0,115000000.0,653779970.0,3700.0,331.0
+Thor: The Dark World,2013,112.0,Alan Taylor,Action,Adventure,Fantasy,6.8,54.0,170000000.0,644783140.0,795.0,529.0
+Moana,2016,107.0,Ron Clements,Animation,Adventure,Comedy,7.6,81.0,150000000.0,644136488.0,614.0,400.0
+Sing,2016,108.0,Garth Jennings,Animation,Comedy,Family,7.1,59.0,75000000.0,634338384.0,345.0,242.0
+Kung Fu Panda,2008,92.0,Mark Osborne,Animation,Action,Adventure,7.6,74.0,130000000.0,632083197.0,500.0,274.0
+The Incredibles,2004,115.0,Brad Bird,Animation,Action,Adventure,8.0,90.0,92000000.0,631607053.0,1000.0,239.0
+The Martian,2015,144.0,Ridley Scott,Adventure,Drama,Sci-Fi,8.0,80.0,108000000.0,630620818.0,1400.0,639.0
+Hancock,2008,92.0,Peter Berg,Action,Drama,Fantasy,6.4,49.0,150000000.0,629443428.0,698.0,301.0
+Fast Five,2011,130.0,Justin Lin,Action,Adventure,Crime,7.3,66.0,125000000.0,626137675.0,471.0,368.0
+Men in Black 3,2012,106.0,Barry Sonnenfeld,Action,Adventure,Comedy,6.8,58.0,225000000.0,624026776.0,417.0,455.0
+Iron Man 2,2010,124.0,Jon Favreau,Action,Adventure,Sci-Fi,6.9,57.0,200000000.0,623933331.0,997.0,499.0
+Ratatouille,2007,111.0,Brad Bird,Animation,Adventure,Comedy,8.1,96.0,150000000.0,623726085.0,834.0,319.0
+Ant-Man and the Wasp,2018,118.0,Peyton Reed,Action,Adventure,Comedy,7.0,70.0,162000000.0,622674139.0,1000.0,458.0
+How to Train Your Dragon 2,2014,102.0,Dean DeBlois,Animation,Action,Adventure,7.8,77.0,145000000.0,621537519.0,436.0,318.0
+Logan,2017,137.0,James Mangold,Action,Drama,Sci-Fi,8.1,77.0,97000000.0,619179950.0,1700.0,655.0
+The Lost World: Jurassic Park,1997,129.0,Steven Spielberg,Action,Adventure,Sci-Fi,6.5,59.0,73000000.0,618638999.0,732.0,186.0
+Casino Royale,2006,144.0,Martin Campbell,Action,Adventure,Thriller,8.0,80.0,150000000.0,616502912.0,2500.0,207.0
+The Passion of the Christ,2004,127.0,Mel Gibson,Drama,-,-,7.2,47.0,30000000.0,612054506.0,2900.0,403.0
+Mamma Mia!,2008,108.0,Phyllida Lloyd,Comedy,Musical,Romance,6.4,51.0,52000000.0,611257819.0,834.0,170.0
+Life of Pi,2012,127.0,Ang Lee,Adventure,Drama,Fantasy,7.9,79.0,120000000.0,609016565.0,990.0,568.0
+Transformers: The Last Knight,2017,154.0,Michael Bay,Action,Adventure,Sci-Fi,5.2,27.0,217000000.0,605425157.0,933.0,298.0
+Madagascar: Escape 2 Africa,2008,89.0,Eric Darnell,Animation,Adventure,Comedy,6.6,61.0,150000000.0,603900354.0,178.0,165.0
+War of the Worlds,2005,116.0,Steven Spielberg,Action,Adventure,Sci-Fi,6.5,73.0,132000000.0,603873119.0,2900.0,396.0
+Tangled,2010,100.0,Nathan Greno,Animation,Adventure,Comedy,7.7,71.0,260000000.0,592462816.0,549.0,334.0
+Quantum of Solace,2008,106.0,Marc Forster,Action,Adventure,Thriller,6.6,58.0,200000000.0,589580482.0,1400.0,249.0
+Men in Black,1997,98.0,Barry Sonnenfeld,Action,Adventure,Comedy,7.3,71.0,90000000.0,589390539.0,384.0,165.0
+The Croods,2013,98.0,Kirk DeMicco,Animation,Adventure,Comedy,7.2,55.0,135000000.0,587235983.0,283.0,271.0
+The Hangover Part II,2011,102.0,Todd Phillips,Comedy,-,-,6.4,44.0,80000000.0,586764305.0,456.0,382.0
+Iron Man,2008,126.0,Jon Favreau,Action,Adventure,Sci-Fi,7.9,79.0,140000000.0,585796247.0,1500.0,550.0
+I Am Legend,2007,101.0,Francis Lawrence,Action,Drama,Sci-Fi,7.2,65.0,150000000.0,585410052.0,1600.0,338.0
+Ready Player One,2018,140.0,Steven Spielberg,Action,Adventure,Sci-Fi,7.4,64.0,175000000.0,582918849.0,2100.0,602.0
+"Monsters, Inc.",2001,92.0,Pete Docter,Animation,Adventure,Comedy,8.1,79.0,115000000.0,579707738.0,762.0,243.0
+Operation Red Sea,2018,142.0,Dante Lam,Action,Drama,Thriller,6.6,,70000000.0,579330426.0,93.0,37.0
+Night at the Museum,2006,108.0,Shawn Levy,Adventure,Comedy,Family,6.4,48.0,110000000.0,574481229.0,497.0,172.0
+Fifty Shades of Grey,2015,125.0,Sam Taylor-Johnson,Drama,Romance,Thriller,4.2,46.0,40000000.0,569651467.0,1600.0,405.0
+Kong: Skull Island,2017,118.0,Jordan Vogt-Roberts,Action,Adventure,Fantasy,6.6,62.0,185000000.0,566652812.0,1000.0,611.0
+The Smurfs,2011,103.0,Raja Gosnell,Animation,Adventure,Comedy,5.4,30.0,110000000.0,563749323.0,177.0,174.0
+Cars 2,2011,106.0,John Lasseter,Animation,Adventure,Comedy,6.2,57.0,200000000.0,559852396.0,409.0,312.0
+King Kong,2005,187.0,Peter Jackson,Action,Adventure,Drama,7.2,81.0,207000000.0,556906378.0,2700.0,234.0
+Puss in Boots,2011,90.0,Chris Miller,Animation,Adventure,Comedy,6.6,65.0,130000000.0,554987477.0,182.0,250.0
+The Mermaid,2016,94.0,Stephen Chow,Comedy,Drama,Fantasy,6.2,69.0,60720000.0,553810228.0,49.0,77.0
+Armageddon,1998,151.0,Michael Bay,Action,Adventure,Sci-Fi,6.7,42.0,140000000.0,553709788.0,1300.0,164.0
+The Day After Tomorrow,2004,124.0,Roland Emmerich,Action,Adventure,Sci-Fi,6.4,47.0,125000000.0,552639571.0,1300.0,139.0
+Ted,2012,106.0,Seth MacFarlane,Comedy,-,-,6.9,62.0,50000000.0,549368315.0,701.0,463.0
+American Sniper,2014,133.0,Clint Eastwood,Action,Biography,Drama,7.3,72.0,58800000.0,547459020.0,1100.0,521.0
+Mission: Impossible II,2000,123.0,John Woo,Action,Adventure,Thriller,6.1,59.0,125000000.0,546388108.0,1500.0,230.0
+Detective Chinatown 2,2018,121.0,Sicheng Chen,Action,Comedy,Mystery,6.1,48.0,,544185156.0,9.0,11.0
+X-Men: Apocalypse,2016,144.0,Bryan Singer,Action,Adventure,Sci-Fi,6.9,52.0,178000000.0,543934105.0,883.0,496.0
+Sherlock Holmes: A Game of Shadows,2011,129.0,Guy Ritchie,Action,Adventure,Mystery,7.4,48.0,125000000.0,543848418.0,493.0,260.0
+Despicable Me,2010,95.0,Pierre Coffin,Animation,Adventure,Comedy,7.6,72.0,69000000.0,543157985.0,409.0,192.0
+Cinderella,2015,105.0,Kenneth Branagh,Adventure,Drama,Family,6.9,67.0,95000000.0,542358331.0,502.0,369.0
+Madagascar,2005,86.0,Eric Darnell,Animation,Adventure,Comedy,6.9,57.0,75000000.0,542063846.0,465.0,171.0
+World War Z,2013,116.0,Marc Forster,Action,Adventure,Horror,7.0,63.0,190000000.0,540455876.0,1200.0,656.0
+Brave,2012,93.0,Mark Andrews,Animation,Adventure,Comedy,7.1,69.0,185000000.0,538983207.0,566.0,503.0
+Star Wars: Episode V - The Empire Strikes Back,1980,124.0,Irvin Kershner,Action,Adventure,Fantasy,8.7,82.0,18000000.0,538375067.0,1300.0,237.0
+The Simpsons Movie,2007,87.0,David Silverman,Animation,Adventure,Comedy,7.3,80.0,75000000.0,536414293.0,888.0,296.0
+The Revenant,2015,156.0,Alejandro G. Iñárritu,Action,Adventure,Drama,8.0,76.0,135000000.0,532950503.0,1700.0,651.0
+The Meg,2018,113.0,Jon Turteltaub,Action,Horror,Sci-Fi,5.6,46.0,130000000.0,530517320.0,1600.0,413.0
+Ralph Breaks the Internet,2018,112.0,Phil Johnston,Animation,Adventure,Comedy,7.0,71.0,175000000.0,529323962.0,827.0,279.0
+Hotel Transylvania 3: Summer Vacation,2018,97.0,Genndy Tartakovsky,Animation,Adventure,Comedy,6.3,54.0,80000000.0,528583774.0,293.0,129.0
+The Boss Baby,2017,97.0,Tom McGrath,Animation,Adventure,Comedy,6.3,50.0,125000000.0,527965936.0,275.0,196.0
+Dunkirk,2017,106.0,Christopher Nolan,Action,Drama,History,7.8,94.0,100000000.0,527016307.0,2600.0,558.0
+Godzilla,2014,123.0,Gareth Edwards,Action,Adventure,Sci-Fi,6.4,62.0,160000000.0,524976069.0,1700.0,656.0
+How to Train Your Dragon: The Hidden World,2019,104.0,Dean DeBlois,Animation,Action,Adventure,7.4,71.0,129000000.0,524535083.0,710.0,221.0
+Sherlock Holmes,2009,128.0,Guy Ritchie,Action,Adventure,Mystery,7.6,57.0,90000000.0,524028679.0,748.0,417.0
+Meet the Fockers,2004,115.0,Jay Roach,Comedy,Romance,-,6.3,41.0,80000000.0,522657936.0,453.0,129.0
+WALL·E,2008,98.0,Andrew Stanton,Animation,Adventure,Family,8.4,95.0,180000000.0,521311890.0,1400.0,274.0
+Kung Fu Panda 3,2016,95.0,Alessandro Carloni,Animation,Action,Adventure,7.1,66.0,145000000.0,521170825.0,226.0,241.0
+Terminator 2: Judgment Day,1991,137.0,James Cameron,Action,Sci-Fi,-,8.6,75.0,102000000.0,520881154.0,1400.0,304.0
+Ant-Man,2015,117.0,Peyton Reed,Action,Adventure,Comedy,7.3,64.0,130000000.0,519311965.0,810.0,597.0
+The Grinch,2018,85.0,Yarrow Cheney,Animation,Adventure,Comedy,6.3,51.0,75000000.0,512858819.0,661.0,189.0
+Ghost,1990,127.0,Jerry Zucker,Drama,Fantasy,Romance,7.1,52.0,22000000.0,505703557.0,354.0,98.0
+Aladdin,1992,90.0,Ron Clements,Animation,Adventure,Comedy,8.0,86.0,28000000.0,504050219.0,375.0,152.0
+Venom: Let There Be Carnage,2021,97.0,Andy Serkis,Action,Adventure,Sci-Fi,6.0,49.0,,502050366.0,1400.0,251.0
+Rio 2,2014,101.0,Carlos Saldanha,Animation,Adventure,Comedy,6.3,49.0,103000000.0,498781117.0,138.0,164.0
+Troy,2004,163.0,Wolfgang Petersen,Drama,History,-,7.3,56.0,175000000.0,497409852.0,1800.0,205.0
+Toy Story 2,1999,92.0,John Lasseter,Animation,Adventure,Comedy,7.9,88.0,90000000.0,497375381.0,668.0,203.0
+How to Train Your Dragon,2010,98.0,Dean DeBlois,Animation,Action,Adventure,8.1,75.0,165000000.0,494879471.0,694.0,193.0
+Twister,1996,113.0,Jan de Bont,Action,Adventure,Thriller,6.4,68.0,92000000.0,494580615.0,498.0,133.0
+Oz the Great and Powerful,2013,130.0,Sam Raimi,Adventure,Family,Fantasy,6.3,44.0,215000000.0,493311825.0,558.0,507.0
+Clash of the Titans,2010,106.0,Louis Leterrier,Action,Adventure,Fantasy,5.8,39.0,125000000.0,493214993.0,713.0,348.0
+Maleficent: Mistress of Evil,2019,119.0,Joachim Rønning,Adventure,Family,Fantasy,6.6,43.0,185000000.0,491730089.0,757.0,235.0
+War for the Planet of the Apes,2017,140.0,Matt Reeves,Action,Adventure,Drama,7.4,82.0,150000000.0,490719763.0,938.0,477.0
+Shrek,2001,90.0,Andrew Adamson,Animation,Adventure,Comedy,7.9,84.0,60000000.0,488351320.0,1100.0,173.0
+Mr. & Mrs. Smith,2005,,Doug Liman,Action,Comedy,Crime,6.5,55.0,110000000.0,487287646.0,876.0,216.0
+Angels & Demons,2009,138.0,Ron Howard,Action,Mystery,Thriller,6.7,48.0,150000000.0,485930816.0,538.0,210.0
+Teenage Mutant Ninja Turtles,2014,101.0,Jonathan Liebesman,Action,Adventure,Comedy,5.8,31.0,125000000.0,485004754.0,588.0,362.0
+Bruce Almighty,2003,101.0,Tom Shadyac,Comedy,Fantasy,-,6.7,46.0,81000000.0,484592874.0,665.0,160.0
+Rio,2011,96.0,Carlos Saldanha,Animation,Adventure,Comedy,6.9,63.0,90000000.0,483866518.0,241.0,235.0
+Saving Private Ryan,1998,169.0,Steven Spielberg,Drama,War,-,8.6,91.0,70000000.0,482349603.0,2800.0,267.0
+Rise of the Planet of the Apes,2011,105.0,Rupert Wyatt,Action,Drama,Sci-Fi,7.6,68.0,93000000.0,481800873.0,745.0,546.0
+Home Alone,1990,103.0,Chris Columbus,Comedy,Family,-,7.7,63.0,18000000.0,476684675.0,578.0,110.0
+Hotel Transylvania 2,2015,89.0,Genndy Tartakovsky,Animation,Adventure,Comedy,6.6,44.0,80000000.0,475186706.0,179.0,186.0
+Star Wars: Episode VI - Return of the Jedi,1983,131.0,Richard Marquand,Action,Adventure,Fantasy,8.3,58.0,32500000.0,475106177.0,932.0,210.0
+Charlie and the Chocolate Factory,2005,115.0,Tim Burton,Adventure,Comedy,Family,6.7,72.0,150000000.0,474968763.0,1500.0,263.0
+Indiana Jones and the Last Crusade,1989,127.0,Steven Spielberg,Action,Adventure,-,8.2,65.0,48000000.0,474171806.0,651.0,178.0
+San Andreas,2015,114.0,Brad Peyton,Action,Adventure,Thriller,6.1,43.0,110000000.0,474009154.0,691.0,407.0
+It Chapter Two,2019,169.0,Andy Muschietti,Drama,Fantasy,Horror,6.5,58.0,79000000.0,473122525.0,2400.0,444.0
+Jaws,1975,124.0,Steven Spielberg,Adventure,Thriller,-,8.1,87.0,7000000.0,471411300.0,1300.0,289.0
+Wreck-It Ralph,2012,101.0,Rich Moore,Animation,Adventure,Comedy,7.7,72.0,165000000.0,471222889.0,484.0,398.0
+The Hangover,2009,100.0,Todd Phillips,Comedy,-,-,7.7,73.0,35000000.0,469328079.0,798.0,339.0
+Godzilla vs. Kong,2021,113.0,Adam Wingard,Action,Sci-Fi,Thriller,6.3,59.0,200000000.0,468216094.0,2100.0,364.0
+The Lego Movie,2014,100.0,Christopher Miller,Animation,Action,Adventure,7.7,83.0,60000000.0,468266122.0,602.0,466.0
+Bumblebee,2018,114.0,Travis Knight,Action,Adventure,Sci-Fi,6.7,66.0,135000000.0,467989645.0,1400.0,255.0
+Star Trek Into Darkness,2013,132.0,J.J. Abrams,Action,Adventure,Sci-Fi,7.7,72.0,190000000.0,467365246.0,1200.0,621.0
+The Matrix,1999,136.0,Lana Wachowski,Action,Sci-Fi,-,8.7,73.0,63000000.0,467222728.0,4800.0,250.0
+Gladiator,2000,155.0,Ridley Scott,Action,Adventure,Drama,8.5,67.0,103000000.0,465380802.0,2800.0,218.0
+Pretty Woman,1990,119.0,Garry Marshall,Comedy,Romance,-,7.1,51.0,14000000.0,463406268.0,398.0,91.0
+Cars,2006,117.0,John Lasseter,Animation,Adventure,Comedy,7.2,73.0,120000000.0,461991867.0,742.0,253.0
+The Eight Hundred,2020,149.0,Hu Guan,Action,Drama,History,6.7,64.0,80000000.0,461421559.0,47.0,44.0
+X-Men: The Last Stand,2006,104.0,Brett Ratner,Action,Adventure,Sci-Fi,6.6,58.0,210000000.0,460435291.0,1900.0,336.0
+National Treasure: Book of Secrets,2007,124.0,Jon Turteltaub,Action,Adventure,Mystery,6.5,48.0,130000000.0,459242249.0,337.0,177.0
+Lucy,2014,89.0,Luc Besson,Action,Sci-Fi,Thriller,6.4,61.0,40000000.0,458863600.0,1300.0,441.0
+Mission: Impossible,1996,110.0,Brian De Palma,Action,Adventure,Thriller,7.1,59.0,80000000.0,457696391.0,503.0,195.0
+300,2006,117.0,Zack Snyder,Action,Drama,-,7.6,52.0,65000000.0,456082343.0,2500.0,470.0
+Demon Slayer the Movie: Mugen Train,2020,117.0,Haruo Sotozaki,Animation,Action,Adventure,8.2,72.0,,454779627.0,370.0,47.0
+The Last Samurai,2003,154.0,Edward Zwick,Action,Drama,-,7.8,55.0,140000000.0,454627263.0,1000.0,173.0
+Dying to Survive,2018,117.0,Muye Wen,Comedy,Drama,-,7.9,63.0,15000000.0,451183391.0,39.0,14.0
+Ocean's Eleven,2001,116.0,Steven Soderbergh,Crime,Thriller,-,7.7,74.0,85000000.0,450717150.0,998.0,126.0
+"My People, My Country",2019,154.0,Kaige Chen,Drama,History,-,6.4,,,450064993.0,30.0,3.0
+Thor,2011,115.0,Kenneth Branagh,Action,Adventure,Fantasy,7.0,57.0,150000000.0,449326618.0,1000.0,568.0
+Pearl Harbor,2001,183.0,Michael Bay,Action,Drama,History,6.2,44.0,140000000.0,449220945.0,2000.0,163.0
+La La Land,2016,128.0,Damien Chazelle,Comedy,Drama,Music,8.0,94.0,30000000.0,448906865.0,2000.0,706.0
+Tarzan,1999,88.0,Chris Buck,Animation,Adventure,Comedy,7.3,79.0,130000000.0,448191819.0,328.0,134.0
+Men in Black II,2002,88.0,Barry Sonnenfeld,Action,Adventure,Comedy,6.1,49.0,140000000.0,445135288.0,668.0,203.0
+The Bourne Ultimatum,2007,115.0,Paul Greengrass,Action,Mystery,Thriller,8.0,85.0,110000000.0,444100035.0,944.0,328.0
+The Mummy Returns,2001,130.0,Stephen Sommers,Action,Adventure,Fantasy,6.4,48.0,98000000.0,443280904.0,949.0,177.0
+Alvin and the Chipmunks: The Squeakquel,2009,88.0,Betty Thomas,Animation,Adventure,Comedy,4.5,41.0,75000000.0,443140005.0,117.0,101.0
+Les Misérables,2012,158.0,Tom Hooper,Drama,Musical,Romance,7.6,63.0,61000000.0,442299309.0,1000.0,498.0
+The Exorcist,1973,122.0,William Friedkin,Horror,-,-,8.1,81.0,11000000.0,441306145.0,1300.0,230.0
+Mrs. Doubtfire,1993,125.0,Chris Columbus,Comedy,Drama,-,7.0,53.0,25000000.0,441286195.0,322.0,59.0
+Terminator Genisys,2015,126.0,Alan Taylor,Action,Adventure,Sci-Fi,6.3,38.0,155000000.0,440603537.0,1100.0,522.0
+Warcraft,2016,123.0,Duncan Jones,Action,Adventure,Fantasy,6.7,32.0,160000000.0,439048914.0,1000.0,371.0
+The Greatest Showman,2017,105.0,Michael Gracey,Biography,Drama,Musical,7.6,48.0,84000000.0,436949634.0,1900.0,337.0
+A Star Is Born,2018,136.0,Bradley Cooper,Drama,Music,Romance,7.6,88.0,36000000.0,436233122.0,2800.0,468.0
+Pokémon Detective Pikachu,2019,104.0,Rob Letterman,Action,Adventure,Comedy,6.5,53.0,150000000.0,433477601.0,971.0,294.0
+Terminator 3: Rise of the Machines,2003,109.0,Jonathan Mostow,Action,Sci-Fi,-,6.3,66.0,200000000.0,433371112.0,1700.0,283.0
+Shang-Chi and the Legend of the Ten Rings,2021,132.0,Destin Daniel Cretton,Action,Adventure,Fantasy,7.4,71.0,200000000.0,432243292.0,2400.0,331.0
+Die Another Day,2002,133.0,Lee Tamahori,Action,Adventure,Thriller,6.1,56.0,142000000.0,431971116.0,1200.0,132.0
+The Secret Life of Pets 2,2019,86.0,Chris Renaud,Animation,Adventure,Comedy,6.4,55.0,80000000.0,430051293.0,311.0,163.0
+Cast Away,2000,143.0,Robert Zemeckis,Adventure,Drama,Romance,7.8,73.0,90000000.0,429632142.0,1200.0,110.0
+Rampage,2018,107.0,Brad Peyton,Action,Adventure,Sci-Fi,6.1,45.0,120000000.0,428028233.0,741.0,335.0
+The King's Speech,2010,118.0,Tom Hooper,Biography,Drama,History,8.0,88.0,15000000.0,427374317.0,798.0,475.0
+The Matrix Revolutions,2003,129.0,Lana Wachowski,Action,Sci-Fi,-,6.7,47.0,150000000.0,427344325.0,2200.0,260.0
+The Intouchables,2011,112.0,Olivier Nakache,Biography,Comedy,Drama,8.5,57.0,9500000.0,426588510.0,792.0,323.0
+Bad Boys for Life,2020,124.0,Adil El Arbi,Action,Comedy,Crime,6.5,59.0,90000000.0,426505244.0,1200.0,254.0
+Django Unchained,2012,165.0,Quentin Tarantino,Drama,Western,-,8.4,81.0,100000000.0,426074373.0,1700.0,657.0
+Beauty and the Beast,1991,84.0,Gary Trousdale,Animation,Family,Fantasy,8.0,95.0,25000000.0,424967620.0,475.0,208.0
+Dances with Wolves,1990,181.0,Kevin Costner,Adventure,Drama,Western,8.0,72.0,22000000.0,424208848.0,525.0,91.0
+"My People, My Homeland",2020,153.0,Hao Ning,Drama,-,-,6.5,,,422390820.0,4.0,1.0
+The Chronicles of Narnia: Prince Caspian,2008,150.0,Andrew Adamson,Action,Adventure,Family,6.5,62.0,225000000.0,419665568.0,480.0,252.0
+Sex and the City,2008,145.0,Michael Patrick King,Comedy,Drama,Romance,5.6,53.0,65000000.0,418765519.0,515.0,202.0
+The Captain,2019,111.0,Andrew Lau,Action,Adventure,Drama,6.2,,,417282021.0,36.0,23.0
+The Mummy,1999,124.0,Stephen Sommers,Action,Adventure,Fantasy,7.1,48.0,80000000.0,415933406.0,1100.0,130.0
+The Chronicles of Narnia: The Voyage of the Dawn Treader,2010,113.0,Michael Apted,Adventure,Family,Fantasy,6.3,53.0,155000000.0,415686217.0,256.0,216.0
+Jason Bourne,2016,123.0,Paul Greengrass,Action,Thriller,-,6.6,58.0,120000000.0,415484914.0,761.0,330.0
+The Wolverine,2013,126.0,James Mangold,Action,Sci-Fi,-,6.7,61.0,120000000.0,414828246.0,673.0,469.0
+Kingsman: The Secret Service,2014,129.0,Matthew Vaughn,Action,Adventure,Comedy,7.7,60.0,81000000.0,414351546.0,1000.0,478.0
+Night at the Museum: Battle of the Smithsonian,2009,105.0,Shawn Levy,Adventure,Comedy,Family,6.0,42.0,150000000.0,413106170.0,242.0,174.0
+Batman,1989,126.0,Tim Burton,Action,Adventure,-,7.5,69.0,35000000.0,411569241.0,1000.0,234.0
+The Bodyguard,1992,129.0,Mick Jackson,Action,Drama,Music,6.3,39.0,25000000.0,411046449.0,195.0,54.0
+Pacific Rim,2013,131.0,Guillermo del Toro,Action,Adventure,Sci-Fi,6.9,65.0,190000000.0,411002906.0,1200.0,603.0
+Kingsman: The Golden Circle,2017,141.0,Matthew Vaughn,Action,Adventure,Comedy,6.7,44.0,104000000.0,410902662.0,788.0,375.0
+The Mummy,2017,110.0,Alex Kurtzman,Action,Adventure,Fantasy,5.4,34.0,125000000.0,409231607.0,995.0,441.0
+Ice Age 5: Collision Course,2016,94.0,Michael Thurmeier,Animation,Adventure,Comedy,5.6,34.0,105000000.0,408754975.0,155.0,148.0
+Twilight,2008,122.0,Catherine Hardwicke,Drama,Fantasy,Romance,5.3,56.0,37000000.0,408430415.0,1700.0,352.0
+Signs,2002,106.0,M. Night Shyamalan,Drama,Mystery,Sci-Fi,6.8,59.0,72000000.0,408247917.0,2400.0,212.0
+X2: X-Men United,2003,134.0,Bryan Singer,Action,Sci-Fi,Thriller,7.4,68.0,110000000.0,407711549.0,1100.0,172.0
+Alita: Battle Angel,2019,122.0,Robert Rodriguez,Action,Adventure,Sci-Fi,7.3,53.0,170000000.0,404980543.0,2900.0,386.0
+The Mummy: Tomb of the Dragon Emperor,2008,112.0,Rob Cohen,Action,Fantasy,Horror,5.2,31.0,145000000.0,403449830.0,575.0,274.0
+Prometheus,2012,124.0,Ridley Scott,Adventure,Mystery,Sci-Fi,7.0,64.0,130000000.0,403354469.0,2600.0,552.0
+Gone with the Wind,1939,238.0,Victor Fleming,Drama,History,Romance,8.2,97.0,3977000.0,402382193.0,961.0,192.0
+Mamma Mia! Here We Go Again,2018,114.0,Ol Parker,Comedy,Musical,Romance,6.6,60.0,75000000.0,402254384.0,805.0,254.0
+Eternals,2021,156.0,Chloé Zhao,Action,Adventure,Fantasy,6.4,52.0,200000000.0,402064899.0,3400.0,338.0
+TRON: Legacy,2010,125.0,Joseph Kosinski,Action,Adventure,Sci-Fi,6.8,49.0,170000000.0,400063852.0,811.0,481.0
+Mission: Impossible III,2006,126.0,J.J. Abrams,Action,Adventure,Thriller,6.9,66.0,150000000.0,398479497.0,949.0,324.0
+Dune,2021,155.0,Denis Villeneuve,Action,Adventure,Drama,8.1,74.0,165000000.0,400671789.0,5400.0,496.0
+Snow White and the Huntsman,2012,127.0,Rupert Sanders,Action,Adventure,Drama,6.1,57.0,170000000.0,396592829.0,809.0,428.0
+Grease,1978,110.0,Randal Kleiser,Comedy,Musical,Romance,7.2,70.0,6000000.0,396271103.0,479.0,114.0
+Toy Story,1995,81.0,John Lasseter,Animation,Adventure,Comedy,8.3,95.0,30000000.0,394436586.0,731.0,159.0
+Solo: A Star Wars Story,2018,135.0,Ron Howard,Action,Adventure,Sci-Fi,6.9,62.0,275000000.0,392924807.0,2600.0,556.0
+The Wolf of Wall Street,2013,,Martin Scorsese,Biography,Comedy,Crime,8.2,75.0,100000000.0,392000694.0,1700.0,422.0
+Superman Returns,2006,154.0,Bryan Singer,Action,Adventure,Sci-Fi,6.1,72.0,270000000.0,391081192.0,2400.0,350.0
+Robin Hood: Prince of Thieves,1991,143.0,Kevin Reynolds,Action,Adventure,Drama,6.9,51.0,48000000.0,390493908.0,393.0,88.0
+Indiana Jones and the Raiders of the Lost Ark,1981,115.0,Steven Spielberg,Action,Adventure,-,8.4,85.0,18000000.0,389925971.0,1000.0,273.0
+Independence Day: Resurgence,2016,,Roland Emmerich,Action,Adventure,Sci-Fi,5.2,32.0,165000000.0,389681935.0,981.0,383.0
+Live Free or Die Hard,2007,128.0,Len Wiseman,Action,Thriller,-,7.1,69.0,110000000.0,388156011.0,876.0,365.0
+Monster Hunt,2015,117.0,Raman Hui,Adventure,Comedy,Fantasy,6.1,53.0,,387053506.0,27.0,33.0
+Godzilla: King of the Monsters,2019,132.0,Michael Dougherty,Action,Adventure,Fantasy,6.0,48.0,170000000.0,386600138.0,2300.0,397.0
+Home,2015,94.0,Tim Johnson,Animation,Adventure,Comedy,6.6,55.0,135000000.0,386041607.0,294.0,180.0
+Star Trek,2009,127.0,J.J. Abrams,Action,Adventure,Sci-Fi,7.9,82.0,150000000.0,385680446.0,1700.0,524.0
+1917,2019,119.0,Sam Mendes,Action,Drama,War,8.3,78.0,95000000.0,384919389.0,3300.0,515.0
+Happy Feet,2006,108.0,George Miller,Animation,Adventure,Comedy,6.4,77.0,100000000.0,384336108.0,612.0,121.0
+Cars 3,2017,102.0,Brian Fee,Animation,Adventure,Comedy,6.7,59.0,175000000.0,383930656.0,386.0,277.0
+Ice Age,2002,81.0,Chris Wedge,Animation,Adventure,Comedy,7.5,61.0,59000000.0,383257136.0,535.0,169.0
+Back to the Future,1985,116.0,Robert Zemeckis,Adventure,Comedy,Sci-Fi,8.5,87.0,19000000.0,383336762.0,1400.0,260.0
+Fifty Shades Darker,2017,118.0,James Foley,Drama,Romance,-,4.6,33.0,55000000.0,381545846.0,326.0,246.0
+Monsters vs. Aliens,2009,94.0,Rob Letterman,Animation,Action,Adventure,6.5,56.0,175000000.0,381509870.0,231.0,221.0
+Black Widow,2021,134.0,Cate Shortland,Action,Adventure,Sci-Fi,6.7,67.0,200000000.0,379751655.0,3100.0,381.0
+Godzilla,1998,139.0,Roland Emmerich,Action,Sci-Fi,Thriller,5.4,32.0,130000000.0,379014294.0,913.0,124.0
+True Lies,1994,141.0,James Cameron,Action,Comedy,Thriller,7.3,63.0,115000000.0,378882411.0,447.0,100.0
+Slumdog Millionaire,2008,,Danny Boyle,Drama,Romance,-,8.0,84.0,15000000.0,378410542.0,1200.0,241.0
+Taken 2,2012,92.0,Olivier Megaton,Action,Crime,Thriller,6.2,45.0,45000000.0,376152455.0,539.0,360.0
+G.I. Joe: Retaliation,2013,110.0,Jon M. Chu,Action,Adventure,Sci-Fi,5.7,41.0,130000000.0,375740705.0,341.0,364.0
+Mad Max: Fury Road,2015,,George Miller,Action,Adventure,Sci-Fi,8.1,90.0,150000000.0,375709470.0,2200.0,833.0
+Spider-Man: Into the Spider-Verse,2018,117.0,Bob Persichetti,Animation,Action,Adventure,8.4,87.0,90000000.0,375540831.0,2100.0,417.0
+Shark Tale,2004,90.0,Bibo Bergeron,Animation,Adventure,Comedy,6.0,48.0,75000000.0,374583879.0,355.0,131.0
+Once Upon a Time... In Hollywood,2019,161.0,Quentin Tarantino,Comedy,Drama,-,7.6,83.0,90000000.0,374565754.0,5600.0,648.0
+What Women Want,2000,127.0,Nancy Meyers,Comedy,Fantasy,Romance,6.4,47.0,70000000.0,374111707.0,432.0,110.0
+The Adventures of Tintin,2011,107.0,Steven Spielberg,Animation,Action,Adventure,7.3,68.0,135000000.0,373993951.0,527.0,454.0
+Batman Begins,2005,140.0,Christopher Nolan,Action,Crime,Drama,8.2,70.0,150000000.0,373672993.0,3000.0,335.0
+Penguins of Madagascar,2014,92.0,Eric Darnell,Animation,Adventure,Comedy,6.6,53.0,132000000.0,373515621.0,175.0,166.0
+X-Men Origins: Wolverine,2009,107.0,Gavin Hood,Action,Sci-Fi,-,6.6,40.0,150000000.0,373062864.0,771.0,250.0
+The Golden Compass,2007,113.0,Chris Weitz,Adventure,Family,Fantasy,6.1,51.0,180000000.0,372234864.0,726.0,243.0
+Fifty Shades Freed,2018,105.0,James Foley,Drama,Romance,Thriller,4.5,31.0,55000000.0,371987838.0,285.0,184.0
+Hitch,2005,118.0,Andy Tennant,Comedy,Romance,-,6.6,58.0,70000000.0,371594210.0,428.0,163.0
+Terminator Salvation,2009,115.0,McG,Action,Sci-Fi,-,6.5,49.0,200000000.0,371353001.0,1100.0,430.0
+Captain America: The First Avenger,2011,124.0,Joe Johnston,Action,Adventure,Sci-Fi,6.9,66.0,140000000.0,370569774.0,1000.0,567.0
+Edge of Tomorrow,2014,113.0,Doug Liman,Action,Adventure,Sci-Fi,7.9,71.0,178000000.0,370541256.0,1100.0,621.0
+There's Something About Mary,1998,119.0,Bobby Farrelly,Comedy,Romance,-,7.1,69.0,23000000.0,369884651.0,673.0,140.0
+Gone Girl,2014,149.0,David Fincher,Drama,Mystery,Thriller,8.1,79.0,61000000.0,369330363.0,1600.0,628.0
+The Fugitive,1993,130.0,Andrew Davis,Action,Crime,Drama,7.8,87.0,44000000.0,368875760.0,385.0,115.0
+Jurassic Park III,2001,92.0,Joe Johnston,Action,Adventure,Sci-Fi,5.9,42.0,93000000.0,368780809.0,1300.0,218.0
+My Big Fat Greek Wedding,2002,95.0,Joel Zwick,Comedy,Drama,Romance,6.6,62.0,5000000.0,368744044.0,789.0,141.0
+Hello Mr. Billionaire,2018,118.0,Da-Mo Peng,Comedy,-,-,6.1,,150000000.0,366961907.0,13.0,2.0
+Die Hard with a Vengeance,1995,128.0,John McTiernan,Action,Adventure,Thriller,7.6,58.0,90000000.0,366101666.0,440.0,171.0
+Shazam!,2019,132.0,David F. Sandberg,Action,Adventure,Comedy,7.0,71.0,100000000.0,366080049.0,2100.0,396.0
+The Nun,2018,96.0,Corin Hardy,Horror,Mystery,Thriller,5.3,46.0,22000000.0,365582797.0,1800.0,269.0
+Alvin and the Chipmunks,2007,92.0,Tim Hill,Animation,Adventure,Comedy,5.2,39.0,60000000.0,365352546.0,182.0,129.0
+Notting Hill,1999,124.0,Roger Michell,Comedy,Drama,Romance,7.2,68.0,42000000.0,363889678.0,762.0,127.0
+Tenet,2020,150.0,Christopher Nolan,Action,Sci-Fi,Thriller,7.3,69.0,205000000.0,363704105.0,5400.0,510.0
+A Bug's Life,1998,95.0,John Lasseter,Animation,Adventure,Comedy,7.2,77.0,120000000.0,363258859.0,409.0,124.0
+Night at the Museum: Secret of the Tomb,2014,98.0,Shawn Levy,Adventure,Comedy,Family,6.2,47.0,127000000.0,363204635.0,177.0,159.0
+Ocean's Twelve,2004,125.0,Steven Soderbergh,Crime,Thriller,-,6.4,58.0,110000000.0,362744280.0,717.0,201.0
+Planet of the Apes,2001,119.0,Tim Burton,Action,Adventure,Sci-Fi,5.7,50.0,100000000.0,362211740.0,1400.0,225.0
+The Hangover Part III,2013,100.0,Todd Phillips,Comedy,Crime,-,5.8,30.0,103000000.0,362000072.0,352.0,329.0
+The World Is Not Enough,1999,128.0,Michael Apted,Action,Adventure,Thriller,6.4,57.0,135000000.0,361832400.0,766.0,115.0
+Monster Hunt 2,2018,110.0,Raman Hui,Adventure,Comedy,Fantasy,5.4,63.0,,361682618.0,7.0,19.0
+Fast & Furious,2009,107.0,Justin Lin,Action,Crime,Thriller,6.5,46.0,85000000.0,360366870.0,306.0,244.0
+Noah,2014,138.0,Darren Aronofsky,Action,Adventure,Drama,5.8,68.0,125000000.0,359200044.0,1400.0,447.0
+The Karate Kid,2010,140.0,Harald Zwart,Action,Drama,Family,6.2,61.0,40000000.0,359126022.0,534.0,265.0
+Home Alone 2: Lost in New York,1992,,Chris Columbus,Adventure,Comedy,Crime,6.8,46.0,28000000.0,358994850.0,329.0,68.0
+Hotel Transylvania,2012,91.0,Genndy Tartakovsky,Animation,Comedy,Family,7.0,47.0,85000000.0,358375603.0,273.0,271.0
+Minority Report,2002,145.0,Steven Spielberg,Action,Crime,Mystery,7.7,80.0,102000000.0,358372926.0,1400.0,260.0
+Your Name.,2016,106.0,Makoto Shinkai,Animation,Drama,Fantasy,8.4,79.0,370000000.0,358180115.0,954.0,242.0
+Top Gun,1986,110.0,Tony Scott,Action,Drama,-,6.9,50.0,15000000.0,357288178.0,580.0,208.0
+The Legend of Tarzan,2016,110.0,David Yates,Action,Adventure,Drama,6.2,44.0,180000000.0,356700357.0,507.0,336.0
+American Beauty,1999,122.0,Sam Mendes,Drama,-,-,8.4,84.0,15000000.0,356296601.0,3000.0,212.0
+Spirited Away,2001,125.0,Hayao Miyazaki,Animation,Adventure,Family,8.6,96.0,19000000.0,355725195.0,1500.0,212.0
+Apollo 13,1995,140.0,Ron Howard,Adventure,Drama,History,7.7,77.0,52000000.0,355237933.0,440.0,161.0
+Rain Man,1988,133.0,Barry Levinson,Drama,-,-,8.0,65.0,25000000.0,354825435.0,501.0,96.0
+The Great Gatsby,2013,143.0,Baz Luhrmann,Drama,Romance,-,7.2,55.0,105000000.0,353659851.0,1000.0,369.0
+Dumbo,2019,112.0,Tim Burton,Adventure,Family,Fantasy,6.3,51.0,170000000.0,353284621.0,777.0,327.0
+"I, Robot",2004,115.0,Alex Proyas,Action,Mystery,Sci-Fi,7.1,59.0,120000000.0,353133898.0,876.0,220.0
+Basic Instinct,1992,127.0,Paul Verhoeven,Drama,Mystery,Thriller,7.0,41.0,49000000.0,352927224.0,401.0,143.0
+Murder on the Orient Express,2017,114.0,Kenneth Branagh,Crime,Drama,Mystery,6.5,52.0,55000000.0,352794081.0,1000.0,426.0
+X-Men: First Class,2011,131.0,Matthew Vaughn,Action,Adventure,Sci-Fi,7.7,65.0,160000000.0,352616690.0,827.0,521.0
+The Angry Birds Movie,2016,97.0,Clay Kaytis,Animation,Action,Adventure,6.3,43.0,73000000.0,352333929.0,237.0,194.0
+GoldenEye,1995,130.0,Martin Campbell,Action,Adventure,Thriller,7.2,65.0,60000000.0,352194034.0,529.0,104.0
+Catch Me If You Can,2002,141.0,Steven Spielberg,Biography,Crime,Drama,8.1,75.0,52000000.0,352114312.0,963.0,197.0
+Now You See Me,2013,115.0,Louis Leterrier,Crime,Mystery,Thriller,7.2,50.0,75000000.0,351723989.0,844.0,396.0
+Hannibal,2001,131.0,Ridley Scott,Crime,Drama,Thriller,6.8,57.0,87000000.0,351692268.0,1400.0,269.0
+The Mask,1994,101.0,Chuck Russell,Action,Comedy,Crime,6.9,56.0,23000000.0,351583407.0,336.0,79.0
+Peter Rabbit,2018,95.0,Will Gluck,Animation,Adventure,Comedy,6.6,51.0,50000000.0,351496066.0,355.0,147.0
+Speed,1994,116.0,Jan de Bont,Action,Adventure,Thriller,7.3,78.0,30000000.0,350448145.0,524.0,139.0
+Dinosaur,2000,82.0,Eric Leighton,Animation,Adventure,Drama,6.4,56.0,127500000.0,349822765.0,269.0,122.0
+Mary Poppins Returns,2018,130.0,Rob Marshall,Adventure,Comedy,Family,6.7,66.0,130000000.0,349546142.0,1100.0,309.0
+Deep Impact,1998,,Mimi Leder,Action,Drama,Sci-Fi,6.2,40.0,75000000.0,349464664.0,615.0,90.0
+The Lorax,2012,86.0,Chris Renaud,Animation,Adventure,Comedy,6.4,46.0,70000000.0,349183316.0,280.0,242.0
+The Maze Runner,2014,113.0,Wes Ball,Action,Mystery,Sci-Fi,6.8,57.0,34000000.0,348319861.0,697.0,323.0
+The Smurfs 2,2013,105.0,Raja Gosnell,Animation,Adventure,Comedy,5.3,34.0,105000000.0,347545360.0,82.0,129.0
+National Treasure,2004,131.0,Jon Turteltaub,Action,Adventure,Mystery,6.9,39.0,100000000.0,347512318.0,774.0,187.0
+Rush Hour 2,2001,90.0,Brett Ratner,Action,Comedy,Crime,6.6,48.0,90000000.0,347325802.0,428.0,126.0
+Trolls,2016,92.0,Mike Mitchell,Animation,Adventure,Comedy,6.4,55.0,125000000.0,347182886.0,228.0,186.0
+xXx: Return of Xander Cage,2017,107.0,D.J. Caruso,Action,Adventure,Comedy,5.2,42.0,85000000.0,346118277.0,408.0,284.0
+Pocahontas,1995,81.0,Mike Gabriel,Animation,Adventure,Drama,6.7,58.0,55000000.0,346079773.0,284.0,93.0
+How the Grinch Stole Christmas,2000,104.0,Ron Howard,Comedy,Family,Fantasy,6.2,46.0,123000000.0,345823032.0,677.0,129.0
+Star Trek Beyond,2016,122.0,Justin Lin,Action,Adventure,Sci-Fi,7.0,68.0,185000000.0,343471816.0,880.0,486.0
+Alvin and the Chipmunks: Chipwrecked,2011,87.0,Mike Mitchell,Animation,Adventure,Comedy,4.3,24.0,75000000.0,342695435.0,82.0,87.0
+Wanted,2008,110.0,Timur Bekmambetov,Action,Crime,Thriller,6.7,64.0,75000000.0,342463063.0,837.0,307.0
+The Flintstones,1994,91.0,Brian Levant,Comedy,Family,Fantasy,4.9,38.0,46000000.0,341631208.0,129.0,48.0
+A Quiet Place,2018,90.0,John Krasinski,Drama,Horror,Sci-Fi,7.5,82.0,17000000.0,340952971.0,3200.0,569.0
+Enchanted,2007,107.0,Kevin Lima,Animation,Adventure,Comedy,7.1,75.0,85000000.0,340487836.0,453.0,222.0
+Over the Hedge,2006,83.0,Tim Johnson,Animation,Adventure,Comedy,6.7,67.0,80000000.0,339795890.0,321.0,153.0
+300: Rise of an Empire,2014,102.0,Noam Murro,Action,Drama,-,6.2,48.0,110000000.0,337580051.0,658.0,386.0
+Batman Forever,1995,121.0,Joel Schumacher,Action,Adventure,-,5.4,51.0,100000000.0,336567158.0,692.0,172.0
+Prince of Persia: The Sands of Time,2010,116.0,Mike Newell,Action,Adventure,Fantasy,6.6,50.0,200000000.0,336365676.0,501.0,310.0
+The Curious Case of Benjamin Button,2008,166.0,David Fincher,Drama,Fantasy,Romance,7.8,70.0,150000000.0,335802786.0,1000.0,317.0
+Journey 2: The Mysterious Island,2012,94.0,Brad Peyton,Action,Adventure,Comedy,5.7,41.0,79000000.0,335287748.0,239.0,177.0
+The Rock,1996,136.0,Michael Bay,Action,Adventure,Thriller,7.4,58.0,75000000.0,335062621.0,529.0,130.0
+The Great Wall,2016,103.0,Yimou Zhang,Action,Adventure,Fantasy,5.9,42.0,150000000.0,334933831.0,523.0,295.0
+Now You See Me 2,2016,129.0,Jon M. Chu,Action,Adventure,Comedy,6.4,46.0,90000000.0,334897606.0,394.0,286.0
+Never Say Die,2017,100.0,Yang Song,Comedy,Fantasy,Sport,6.1,,,334530869.0,9.0,8.0
+Fantastic Four,2005,106.0,Tim Story,Action,Adventure,Fantasy,5.7,40.0,100000000.0,333535934.0,1000.0,120.0
+Indiana Jones and the Temple of Doom,1984,118.0,Steven Spielberg,Action,Adventure,-,7.5,57.0,28000000.0,333107271.0,755.0,170.0
+Tomorrow Never Dies,1997,119.0,Roger Spottiswoode,Action,Adventure,Thriller,6.5,52.0,110000000.0,333011068.0,435.0,113.0
+Back to the Future Part II,1989,108.0,Robert Zemeckis,Adventure,Comedy,Sci-Fi,7.8,57.0,40000000.0,332500002.0,480.0,147.0
+The Good Dinosaur,2015,93.0,Peter Sohn,Animation,Adventure,Comedy,6.7,66.0,200000000.0,332207671.0,523.0,339.0
+Free Guy,2021,115.0,Shawn Levy,Action,Adventure,Comedy,7.2,62.0,120000000.0,331526598.0,2000.0,282.0
+22 Jump Street,2014,112.0,Phil Lord,Action,Comedy,Crime,7.0,71.0,50000000.0,331333876.0,380.0,352.0
+Meet the Parents,2000,108.0,Jay Roach,Comedy,Romance,-,7.0,73.0,55000000.0,330444045.0,543.0,131.0
+Who Framed Roger Rabbit,1988,104.0,Robert Zemeckis,Animation,Adventure,Comedy,7.7,83.0,70000000.0,329803958.0,323.0,148.0
+Black Swan,2010,108.0,Darren Aronofsky,Drama,Thriller,-,8.0,79.0,13000000.0,329398046.0,1400.0,688.0
+The Perfect Storm,2000,130.0,Wolfgang Petersen,Action,Adventure,Drama,6.4,59.0,140000000.0,328718434.0,814.0,176.0
+Crocodile Dundee,1986,97.0,Peter Faiman,Action,Adventure,Comedy,6.6,62.0,8800000.0,328203506.0,150.0,48.0
+Crazy Alien,2019,116.0,Hao Ning,Comedy,Sci-Fi,-,5.7,,105000000.0,327598891.0,11.0,6.0
+Se7en,1995,127.0,David Fincher,Crime,Drama,Mystery,8.6,65.0,33000000.0,327333559.0,1700.0,177.0
+John Wick: Chapter 3 - Parabellum,2019,130.0,Chad Stahelski,Action,Crime,Thriller,7.4,73.0,75000000.0,327281779.0,2400.0,399.0
+The Devil Wears Prada,2006,109.0,David Frankel,Comedy,Drama,-,6.9,62.0,35000000.0,326706115.0,790.0,198.0
+Taken 3,2014,108.0,Olivier Megaton,Action,Crime,Thriller,6.0,26.0,48000000.0,326479141.0,427.0,240.0
+The Hunchback of Notre Dame,1996,91.0,Gary Trousdale,Animation,Drama,Family,7.0,74.0,100000000.0,325338851.0,324.0,87.0
+A Christmas Carol,2009,96.0,Robert Zemeckis,Animation,Adventure,Comedy,6.8,55.0,200000000.0,325286646.0,324.0,251.0
+The SpongeBob Movie: Sponge Out of Water,2015,92.0,Paul Tibbitt,Animation,Adventure,Comedy,6.0,62.0,74000000.0,325186032.0,195.0,149.0
+Schindler's List,1993,195.0,Steven Spielberg,Biography,Drama,History,9.0,94.0,22000000.0,322161245.0,2000.0,169.0
+Megamind,2010,95.0,Tom McGrath,Animation,Action,Comedy,7.3,63.0,130000000.0,321885765.0,309.0,235.0
+The Conjuring 2,2016,134.0,James Wan,Horror,Mystery,Thriller,7.3,65.0,40000000.0,321834351.0,673.0,413.0
+Green Book,2018,130.0,Peter Farrelly,Biography,Comedy,Drama,8.2,69.0,23000000.0,321752656.0,1700.0,422.0
+Lethal Weapon 3,1992,118.0,Richard Donner,Action,Crime,Thriller,6.7,40.0,35000000.0,321731527.0,174.0,77.0
+The Ugly Truth,2009,96.0,Robert Luketic,Comedy,Romance,-,6.4,28.0,38000000.0,321682600.0,222.0,171.0
+Robin Hood,2010,140.0,Ridley Scott,Action,Adventure,Drama,6.6,53.0,200000000.0,321669741.0,657.0,337.0
+Inglourious Basterds,2009,153.0,Quentin Tarantino,Adventure,Drama,War,8.3,69.0,70000000.0,321457747.0,2000.0,400.0
+101 Dalmatians,1996,103.0,Stephen Herek,Adventure,Comedy,Crime,5.7,49.0,75000000.0,320689294.0,125.0,65.0
+The Conjuring,2013,112.0,James Wan,Horror,Mystery,Thriller,7.5,68.0,20000000.0,320406242.0,1200.0,567.0
+Fatal Attraction,1987,119.0,Adrian Lyne,Drama,Thriller,-,6.9,67.0,14000000.0,320145693.0,289.0,109.0
+Sonic the Hedgehog,2020,99.0,Jeff Fowler,Action,Adventure,Comedy,6.5,47.0,85000000.0,319715683.0,1400.0,280.0
+The Last Airbender,2010,103.0,M. Night Shyamalan,Action,Adventure,Family,4.0,20.0,150000000.0,319713881.0,1600.0,288.0
+The Proposal,2009,108.0,Anne Fletcher,Comedy,Drama,Romance,6.7,48.0,40000000.0,317375031.0,389.0,227.0
+A Beautiful Mind,2001,135.0,Ron Howard,Biography,Drama,-,8.2,72.0,58000000.0,316791257.0,1300.0,154.0
+Beverly Hills Cop,1984,105.0,Martin Brest,Action,Comedy,Crime,7.3,66.0,13000000.0,316360478.0,256.0,135.0
+Air Force One,1997,124.0,Wolfgang Petersen,Action,Drama,Thriller,6.5,61.0,85000000.0,315156409.0,476.0,122.0
+The Expendables 2,2012,103.0,Simon West,Action,Adventure,Thriller,6.6,51.0,100000000.0,314975955.0,530.0,398.0
+Chicken Little,2005,81.0,Mark Dindal,Animation,Adventure,Comedy,5.7,48.0,150000000.0,314432837.0,306.0,146.0
+The Polar Express,2004,100.0,Robert Zemeckis,Animation,Adventure,Comedy,6.6,61.0,165000000.0,315249768.0,622.0,166.0
+As Good as It Gets,1997,139.0,James L. Brooks,Comedy,Drama,Romance,7.7,67.0,50000000.0,314178011.0,601.0,135.0
+Maze Runner: The Scorch Trials,2015,131.0,Wes Ball,Action,Adventure,Sci-Fi,6.3,43.0,61000000.0,312296056.0,484.0,278.0
+Resident Evil: The Final Chapter,2016,107.0,Paul W.S. Anderson,Action,Adventure,Horror,5.5,49.0,40000000.0,312242626.0,458.0,258.0
+Austin Powers: The Spy Who Shagged Me,1999,95.0,Jay Roach,Action,Adventure,Comedy,6.6,59.0,33000000.0,312016928.0,804.0,152.0
+The Lego Batman Movie,2017,104.0,Chris McKay,Animation,Action,Adventure,7.3,75.0,80000000.0,312136671.0,361.0,408.0
+Knives Out,2019,130.0,Rian Johnson,Comedy,Crime,Drama,7.9,82.0,40000000.0,311605581.0,2800.0,485.0
+Ocean's Thirteen,2007,122.0,Steven Soderbergh,Crime,Thriller,-,6.9,62.0,85000000.0,311312624.0,341.0,246.0
+Little Fockers,2010,98.0,Paul Weitz,Comedy,Romance,-,5.5,27.0,100000000.0,310650585.0,177.0,176.0
+Bolt,2008,96.0,Byron Howard,Animation,Adventure,Comedy,6.9,67.0,150000000.0,309979994.0,242.0,219.0
+Ransom,1996,121.0,Ron Howard,Action,Crime,Thriller,6.7,60.0,80000000.0,309492681.0,199.0,76.0
+Runaway Bride,1999,116.0,Garry Marshall,Comedy,Romance,-,5.5,39.0,70000000.0,309460292.0,276.0,73.0
+The Blind Side,2009,129.0,John Lee Hancock,Biography,Drama,Sport,7.6,53.0,29000000.0,309231694.0,573.0,269.0
+The Fault in Our Stars,2014,126.0,Josh Boone,Drama,Romance,-,7.7,69.0,12000000.0,307166834.0,740.0,335.0
+The Pursuit of Happyness,2006,117.0,Gabriele Muccino,Biography,Drama,-,8.0,64.0,55000000.0,307127625.0,890.0,190.0
+Rise of the Guardians,2012,97.0,Peter Ramsey,Animation,Action,Adventure,7.2,58.0,145000000.0,306941670.0,257.0,267.0
+Close Encounters of the Third Kind,1977,138.0,Steven Spielberg,Drama,Sci-Fi,-,7.6,90.0,20000000.0,306889114.0,492.0,229.0
+Chicago,2002,113.0,Rob Marshall,Comedy,Crime,Musical,7.2,81.0,45000000.0,306776732.0,1000.0,214.0
+Annabelle: Creation,2017,109.0,David F. Sandberg,Horror,Mystery,Thriller,6.5,62.0,15000000.0,306515884.0,473.0,294.0
+Wonder,2017,113.0,Stephen Chbosky,Drama,Family,-,7.9,66.0,20000000.0,306209289.0,556.0,241.0
+Skyscraper,2018,102.0,Rawson Marshall Thurber,Action,Adventure,Thriller,5.8,51.0,125000000.0,304868961.0,861.0,304.0
+A Good Day to Die Hard,2013,98.0,John Moore,Action,Thriller,-,5.2,28.0,92000000.0,304654182.0,600.0,424.0
+Mulan,1998,88.0,Tony Bancroft,Animation,Adventure,Comedy,7.6,71.0,90000000.0,304320254.0,383.0,129.0
+Dangal,2016,161.0,Nitesh Tiwari,Action,Biography,Drama,8.4,,700000000.0,303723636.0,456.0,64.0
+Passengers,2016,116.0,Morten Tyldum,Drama,Romance,Sci-Fi,7.0,41.0,110000000.0,303144152.0,1300.0,427.0
+Battleship,2012,131.0,Peter Berg,Action,Adventure,Sci-Fi,5.8,41.0,209000000.0,303025485.0,1000.0,387.0
+Liar Liar,1997,86.0,Tom Shadyac,Comedy,Fantasy,-,6.9,70.0,45000000.0,302710615.0,334.0,74.0
+G.I. Joe: The Rise of Cobra,2009,118.0,Stephen Sommers,Action,Adventure,Sci-Fi,5.7,32.0,175000000.0,302469017.0,582.0,143.0
+Wrath of the Titans,2012,99.0,Jonathan Liebesman,Action,Adventure,Fantasy,5.7,37.0,150000000.0,301970083.0,290.0,318.0
+Fantastic 4: Rise of the Silver Surfer,2007,92.0,Tim Story,Action,Adventure,Fantasy,5.6,45.0,130000000.0,301913131.0,492.0,259.0
+Hook,1991,142.0,Steven Spielberg,Adventure,Comedy,Family,6.8,52.0,70000000.0,300854823.0,463.0,97.0
+Rocky IV,1985,91.0,Sylvester Stallone,Drama,Sport,-,6.8,40.0,30000000.0,300473716.0,428.0,125.0
+Superman,1978,143.0,Richard Donner,Action,Adventure,Sci-Fi,7.4,81.0,55000000.0,300478449.0,625.0,207.0
+Rambo: First Blood Part II,1985,96.0,George P. Cosmatos,Action,Adventure,Thriller,6.5,47.0,44000000.0,300400432.0,292.0,135.0
+Resident Evil: Afterlife,2010,96.0,Paul W.S. Anderson,Action,Adventure,Horror,5.8,37.0,60000000.0,300228084.0,462.0,129.0
+Van Helsing,2004,131.0,Stephen Sommers,Action,Adventure,Fantasy,6.0,35.0,160000000.0,300157638.0,1400.0,128.0
+Stuart Little,1999,84.0,Rob Minkoff,Adventure,Comedy,Family,6.0,61.0,133000000.0,300135367.0,228.0,87.0
+Beverly Hills Cop II,1987,100.0,Tony Scott,Action,Comedy,Crime,6.5,48.0,28000000.0,299965036.0,145.0,62.0
+Alice Through the Looking Glass,2016,113.0,James Bobin,Adventure,Family,Fantasy,6.1,34.0,170000000.0,299820798.0,267.0,275.0
+My Best Friend's Wedding,1997,105.0,P.J. Hogan,Comedy,Drama,Romance,6.3,50.0,38000000.0,299288605.0,231.0,64.0
+Real Steel,2011,127.0,Shawn Levy,Action,Drama,Sci-Fi,7.1,56.0,110000000.0,299268508.0,535.0,334.0
+Horton Hears a Who!,2008,86.0,Jimmy Hayward,Animation,Adventure,Comedy,6.8,71.0,85000000.0,298572799.0,180.0,189.0
+Ocean's Eight,2018,110.0,Gary Ross,Action,Comedy,Crime,6.3,61.0,70000000.0,297795726.0,1100.0,354.0
+A Quiet Place Part II,2020,97.0,John Krasinski,Drama,Horror,Sci-Fi,7.2,71.0,,297372261.0,1700.0,382.0
+The Divergent Series: Insurgent,2015,119.0,Robert Schwentke,Action,Adventure,Sci-Fi,6.2,42.0,110000000.0,297002527.0,339.0,287.0
+Look Who's Talking,1989,93.0,Amy Heckerling,Comedy,-,-,5.9,51.0,7500000.0,296999813.0,76.0,29.0
+Austin Powers in Goldmember,2002,94.0,Jay Roach,Action,Adventure,Comedy,6.2,62.0,63000000.0,296938801.0,801.0,172.0
+Ghostbusters,1984,105.0,Ivan Reitman,Action,Comedy,Fantasy,7.8,71.0,30000000.0,296578797.0,672.0,275.0
+Miss Peregrine's Home for Peculiar Children,2016,127.0,Tim Burton,Adventure,Drama,Family,6.7,57.0,110000000.0,296482446.0,469.0,326.0
+X-Men,2000,104.0,Bryan Singer,Action,Adventure,Sci-Fi,7.4,64.0,75000000.0,296339528.0,1500.0,297.0
+Ferdinand,2017,108.0,Carlos Saldanha,Animation,Adventure,Comedy,6.7,58.0,111000000.0,296069199.0,157.0,140.0
+Shutter Island,2010,138.0,Martin Scorsese,Mystery,Thriller,-,8.2,63.0,80000000.0,294805697.0,1500.0,524.0
+Doctor Dolittle,1998,85.0,Betty Thomas,Comedy,Family,Fantasy,5.4,46.0,71500000.0,294456605.0,118.0,76.0
+Bee Movie,2007,91.0,Simon J. Smith,Animation,Adventure,Comedy,6.1,54.0,150000000.0,293514336.0,370.0,190.0
+Salt,2010,100.0,Phillip Noyce,Action,Thriller,-,6.4,65.0,110000000.0,293503354.0,626.0,344.0
+G-Force,2009,88.0,Hoyt Yeatman,Animation,Action,Adventure,5.1,41.0,150000000.0,292817898.0,102.0,140.0
+The Departed,2006,151.0,Martin Scorsese,Crime,Drama,Thriller,8.5,85.0,90000000.0,291480452.0,2400.0,293.0
+What Lies Beneath,2000,130.0,Robert Zemeckis,Drama,Horror,Mystery,6.6,51.0,100000000.0,291420351.0,742.0,158.0
+Pacific Rim: Uprising,2018,111.0,Steven S. DeKnight,Action,Adventure,Sci-Fi,5.6,44.0,150000000.0,290930148.0,803.0,310.0
+The Bourne Supremacy,2004,108.0,Paul Greengrass,Action,Mystery,Thriller,7.7,73.0,75000000.0,290835269.0,899.0,235.0
+Sex and the City 2,2010,146.0,Michael Patrick King,Comedy,Drama,Romance,4.5,27.0,100000000.0,290745055.0,360.0,186.0
+Shakespeare in Love,1998,123.0,John Madden,Comedy,Drama,History,7.1,87.0,25000000.0,289317794.0,813.0,120.0
+Divergent,2014,139.0,Neil Burger,Action,Adventure,Mystery,6.6,48.0,85000000.0,288885818.0,858.0,462.0
+Coming to America,1988,117.0,John Landis,Comedy,Romance,-,7.1,47.0,36000000.0,288752301.0,250.0,96.0
+Wedding Crashers,2005,119.0,David Dobkin,Comedy,Romance,-,7.0,64.0,40000000.0,288485135.0,697.0,180.0
+Bridesmaids,2011,125.0,Paul Feig,Comedy,Romance,-,6.8,75.0,32500000.0,288383523.0,628.0,380.0
+Maze Runner: The Death Cure,2018,143.0,Wes Ball,Action,Adventure,Sci-Fi,6.2,50.0,62000000.0,288175335.0,499.0,203.0
+Casper,1995,100.0,Brad Silberling,Comedy,Family,Fantasy,6.1,49.0,55000000.0,287928194.0,152.0,46.0
+American Pie 2,2001,108.0,J.B. Rogers,Comedy,-,-,6.4,43.0,30000000.0,287553595.0,455.0,130.0
+Pitch Perfect 2,2015,115.0,Elizabeth Banks,Comedy,Music,-,6.4,63.0,29000000.0,287144079.0,244.0,214.0
+The Green Mile,1999,189.0,Frank Darabont,Crime,Drama,Fantasy,8.6,61.0,60000000.0,286801374.0,2000.0,211.0
+Oblivion,2013,124.0,Joseph Kosinski,Action,Adventure,Sci-Fi,7.0,54.0,120000000.0,286168572.0,1100.0,556.0
+Elysium,2013,109.0,Neill Blomkamp,Action,Drama,Sci-Fi,6.6,61.0,115000000.0,286140700.0,984.0,503.0
+Lethal Weapon 4,1998,127.0,Richard Donner,Action,Crime,Thriller,6.6,37.0,140000000.0,285444603.0,330.0,143.0
+John Carter,2012,132.0,Andrew Stanton,Action,Adventure,Sci-Fi,6.6,51.0,250000000.0,284139100.0,962.0,435.0
+Turbo,2013,96.0,David Soren,Animation,Adventure,Comedy,6.4,58.0,135000000.0,282570682.0,135.0,164.0
+Paddington,2014,95.0,Paul King,Adventure,Comedy,Family,7.2,77.0,55000000.0,282377683.0,296.0,260.0
+Bridget Jones's Diary,2001,97.0,Sharon Maguire,Comedy,Drama,Romance,6.7,66.0,25000000.0,281995610.0,627.0,100.0
+The Tourist,2010,103.0,Florian Henckel von Donnersmarck,Action,Thriller,-,6.0,37.0,100000000.0,278780441.0,506.0,323.0
+Split,2016,117.0,M. Night Shyamalan,Horror,Thriller,-,7.3,62.0,9000000.0,278454417.0,1100.0,563.0
+Scary Movie,2000,88.0,Keenen Ivory Wayans,Comedy,-,-,6.2,48.0,19000000.0,278019771.0,987.0,97.0
+xXx,2002,124.0,Rob Cohen,Action,Adventure,Thriller,5.8,48.0,70000000.0,277448382.0,762.0,159.0
+The Bourne Legacy,2012,135.0,Tony Gilroy,Action,Adventure,Thriller,6.6,61.0,125000000.0,276144750.0,625.0,452.0
+Mr. Peabody & Sherman,2014,92.0,Rob Minkoff,Animation,Adventure,Comedy,6.8,59.0,145000000.0,275698039.0,180.0,202.0
+Scooby-Doo,2002,86.0,Raja Gosnell,Adventure,Comedy,Family,5.2,35.0,84000000.0,275678613.0,611.0,138.0
+Lincoln,2012,150.0,Steven Spielberg,Biography,Drama,History,7.3,86.0,65000000.0,275293450.0,870.0,561.0
+Lara Croft: Tomb Raider,2001,100.0,Simon West,Action,Adventure,Fantasy,5.7,33.0,115000000.0,274703340.0,874.0,198.0
+Tomb Raider,2018,119.0,Roar Uthaug,Action,Adventure,Fantasy,6.3,48.0,94000000.0,274650803.0,1300.0,416.0
+The Expendables,2010,103.0,Sylvester Stallone,Action,Adventure,Thriller,6.4,45.0,80000000.0,274470394.0,800.0,431.0
+Cloudy with a Chance of Meatballs 2,2013,95.0,Cody Cameron,Animation,Adventure,Comedy,6.3,59.0,78000000.0,274325949.0,124.0,178.0
+The Nutty Professor,1996,95.0,Tom Shadyac,Comedy,Romance,Sci-Fi,5.6,62.0,54000000.0,273961019.0,138.0,51.0
+Jerry Maguire,1996,139.0,Cameron Crowe,Comedy,Drama,Romance,7.3,77.0,50000000.0,273552592.0,394.0,124.0
+Bad Boys II,2003,147.0,Michael Bay,Action,Comedy,Crime,6.6,38.0,130000000.0,273339556.0,590.0,118.0
+Lilo & Stitch,2002,85.0,Dean DeBlois,Animation,Adventure,Comedy,7.3,73.0,80000000.0,273144151.0,423.0,164.0
+The Silence of the Lambs,1991,118.0,Jonathan Demme,Crime,Drama,Thriller,8.6,85.0,19000000.0,272742922.0,1500.0,246.0
+Grown Ups,2010,102.0,Dennis Dugan,Comedy,-,-,5.9,30.0,80000000.0,271457301.0,419.0,181.0
+Neighbors,2014,97.0,Nicholas Stoller,Comedy,-,-,6.3,68.0,18000000.0,270665134.0,449.0,356.0
+The Firm,1993,154.0,Sydney Pollack,Drama,Mystery,Thriller,6.8,58.0,42000000.0,270248367.0,223.0,65.0
+We're the Millers,2013,110.0,Rawson Marshall Thurber,Comedy,Crime,-,7.0,44.0,37000000.0,269994119.0,457.0,291.0
+Gran Torino,2008,116.0,Clint Eastwood,Drama,-,-,8.1,72.0,33000000.0,269958228.0,1000.0,366.0
+"10,000 BC",2008,109.0,Roland Emmerich,Action,Adventure,Drama,5.1,34.0,105000000.0,269784201.0,616.0,252.0
+American Gangster,2007,157.0,Ridley Scott,Biography,Crime,Drama,7.8,76.0,100000000.0,269755430.0,549.0,298.0
+Epic,2013,102.0,Chris Wedge,Animation,Action,Adventure,6.6,52.0,100000000.0,268426634.0,143.0,208.0
+Exodus: Gods and Kings,2014,150.0,Ridley Scott,Action,Adventure,Drama,6.0,52.0,140000000.0,268175631.0,753.0,333.0
+Sing 2,2021,110.0,Garth Jennings,Animation,Adventure,Comedy,7.5,49.0,85000000.0,403767000.0,369.0,111.0
+Bambi,1942,70.0,James Algar,Animation,Adventure,Drama,7.3,91.0,,267447150.0,201.0,123.0
+The Princess and the Frog,2009,97.0,Ron Clements,Animation,Adventure,Comedy,7.1,73.0,105000000.0,267045765.0,282.0,231.0
+Batman Returns,1992,126.0,Tim Burton,Action,Crime,Fantasy,7.1,68.0,80000000.0,266915287.0,765.0,196.0
+Indecent Proposal,1993,117.0,Adrian Lyne,Drama,Romance,-,6.0,35.0,38000000.0,266614059.0,162.0,59.0
+Something's Gotta Give,2003,128.0,Nancy Meyers,Comedy,Drama,Romance,6.7,66.0,80000000.0,265328738.0,444.0,140.0
+Bridget Jones: The Edge of Reason,2004,108.0,Beeban Kidron,Comedy,Drama,Romance,5.9,44.0,40000000.0,265126918.0,274.0,148.0
+The Incredible Hulk,2008,112.0,Louis Leterrier,Action,Adventure,Sci-Fi,6.6,61.0,150000000.0,264770996.0,897.0,402.0
+Waterworld,1995,177.0,Kevin Reynolds,Action,Adventure,Sci-Fi,6.2,56.0,175000000.0,264218220.0,438.0,131.0
+The Truman Show,1998,103.0,Peter Weir,Comedy,Drama,-,8.2,90.0,60000000.0,264118201.0,1300.0,250.0
+Charlie's Angels,2000,98.0,McG,Action,Adventure,Comedy,5.6,52.0,93000000.0,264105545.0,690.0,189.0
+The Fifth Element,1997,126.0,Luc Besson,Action,Adventure,Sci-Fi,7.6,52.0,93000000.0,263920180.0,934.0,183.0
+Parasite,2019,132.0,Bong Joon Ho,Comedy,Drama,Horror,8.5,96.0,11400000.0,263136766.0,3400.0,600.0
+Jumanji,1995,104.0,Joe Johnston,Adventure,Comedy,Family,7.0,39.0,65000000.0,262821940.0,308.0,80.0
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006,84.0,Larry Charles,Comedy,-,-,7.3,89.0,18000000.0,262552893.0,1300.0,237.0
+Robots,2005,91.0,Chris Wedge,Animation,Adventure,Comedy,6.4,64.0,75000000.0,262511490.0,319.0,149.0
+Knight and Day,2010,109.0,James Mangold,Action,Adventure,Comedy,6.3,46.0,117000000.0,261989769.0,443.0,299.0
+Total Recall,1990,113.0,Paul Verhoeven,Action,Adventure,Sci-Fi,7.5,57.0,65000000.0,261317921.0,534.0,251.0
+This Is It,2009,111.0,Kenny Ortega,Documentary,Drama,Music,7.2,67.0,60000000.0,261183588.0,240.0,139.0
+Terminator: Dark Fate,2019,128.0,Tim Miller,Action,Adventure,Sci-Fi,6.2,54.0,185000000.0,261119292.0,3200.0,398.0
+The Lone Ranger,2013,150.0,Gore Verbinski,Action,Adventure,Western,6.4,37.0,215000000.0,260502115.0,802.0,463.0
+Super 8,2011,112.0,J.J. Abrams,Action,Mystery,Sci-Fi,7.0,72.0,50000000.0,260095986.0,985.0,558.0
+Mojin: The Lost Legend,2015,127.0,Wuershan,Action,Adventure,Drama,5.9,48.0,37000000.0,259368448.0,19.0,27.0
+Blade Runner 2049,2017,164.0,Denis Villeneuve,Action,Drama,Mystery,8.0,81.0,150000000.0,259352064.0,2400.0,556.0
+Charlie's Angels: Full Throttle,2003,106.0,McG,Action,Adventure,Comedy,4.9,48.0,120000000.0,259175788.0,583.0,117.0
+Rush Hour 3,2007,91.0,Brett Ratner,Action,Comedy,Crime,6.2,44.0,140000000.0,258097122.0,255.0,164.0
+The Full Monty,1997,91.0,Peter Cattaneo,Comedy,Drama,-,7.2,75.0,3500000.0,257938649.0,208.0,87.0
+Kung Fu Yoga,2017,107.0,Stanley Tong,Action,Adventure,Comedy,5.1,50.0,65000000.0,257753889.0,76.0,70.0
+Annabelle,2014,99.0,John R. Leonetti,Horror,Mystery,Thriller,5.4,37.0,6500000.0,257589721.0,470.0,311.0
+The Village,2004,108.0,M. Night Shyamalan,Drama,Mystery,Thriller,6.6,44.0,60000000.0,256697520.0,2100.0,279.0
+Lost in Hong Kong,2015,114.0,Zheng Xu,Action,Adventure,Comedy,5.4,,,256283912.0,6.0,19.0
+Erin Brockovich,2000,131.0,Steven Soderbergh,Biography,Drama,-,7.4,73.0,52000000.0,256271286.0,562.0,138.0
+Pegasus,2019,98.0,Han Han,Comedy,Sport,-,6.3,,,255863112.0,13.0,9.0
+Marley & Me,2008,115.0,David Frankel,Comedy,Drama,Family,7.0,53.0,60000000.0,255743093.0,368.0,176.0
+Halloween,2018,106.0,David Gordon Green,Crime,Horror,Thriller,6.5,67.0,10000000.0,255614941.0,1900.0,507.0
+Get Out,2017,104.0,Jordan Peele,Horror,Mystery,Thriller,7.7,85.0,4500000.0,255745157.0,1800.0,504.0
+Us,2019,116.0,Jordan Peele,Horror,Mystery,Thriller,6.8,81.0,20000000.0,255185482.0,3400.0,555.0
+Cliffhanger,1993,113.0,Renny Harlin,Action,Adventure,Thriller,6.5,60.0,70000000.0,255000211.0,241.0,85.0
+Baahubali 2: The Conclusion,2017,167.0,S.S. Rajamouli,Action,Drama,-,8.3,,2500000000.0,254158390.0,558.0,64.0
+Babe,1995,91.0,Chris Noonan,Comedy,Drama,Family,6.9,83.0,30000000.0,254134910.0,238.0,55.0
+Men in Black: International,2019,114.0,F. Gary Gray,Action,Adventure,Comedy,5.6,38.0,110000000.0,253890701.0,1100.0,277.0
+Wild Hogs,2007,100.0,Walt Becker,Action,Adventure,Comedy,5.8,27.0,,253625427.0,284.0,162.0
+High School Musical 3: Senior Year,2008,112.0,Kenny Ortega,Comedy,Drama,Family,4.8,57.0,11000000.0,252909177.0,203.0,126.0
+Hercules,1997,93.0,Ron Clements,Animation,Adventure,Comedy,7.3,74.0,85000000.0,252712101.0,245.0,92.0
+X-Men: Dark Phoenix,2019,113.0,Simon Kinberg,Action,Adventure,Sci-Fi,5.7,43.0,200000000.0,252442974.0,2200.0,358.0
+True Grit,2010,110.0,Ethan Coen,Drama,Western,-,7.6,80.0,38000000.0,252276927.0,857.0,512.0
+Bean,1997,89.0,Mel Smith,Adventure,Comedy,Family,6.5,52.0,18000000.0,251212670.0,195.0,89.0
+American Hustle,2013,138.0,David O. Russell,Crime,Drama,-,7.2,90.0,40000000.0,251171807.0,853.0,543.0
+Enemy of the State,1998,132.0,Tony Scott,Action,Thriller,-,7.3,67.0,90000000.0,250849789.0,488.0,98.0
+You've Got Mail,1998,119.0,Nora Ephron,Comedy,Drama,Romance,6.7,57.0,65000000.0,250821495.0,652.0,113.0
+Eragon,2006,104.0,Stefen Fangmeier,Action,Adventure,Family,5.1,38.0,100000000.0,250425512.0,1700.0,180.0
+Brother Bear,2003,85.0,Aaron Blaise,Animation,Adventure,Comedy,6.8,48.0,128000000.0,250397798.0,201.0,96.0
+The Mask of Zorro,1998,136.0,Martin Campbell,Action,Adventure,Comedy,6.8,63.0,95000000.0,250288523.0,370.0,123.0
+The Ring,2002,115.0,Gore Verbinski,Horror,Mystery,-,7.1,57.0,48000000.0,249348933.0,1700.0,272.0
+The Blair Witch Project,1999,81.0,Daniel Myrick,Horror,Mystery,-,6.5,81.0,60000.0,248639099.0,3600.0,400.0
+Unbreakable,2000,106.0,M. Night Shyamalan,Drama,Mystery,Sci-Fi,7.3,62.0,75000000.0,248118121.0,1500.0,305.0
+Journey to the West: The Demons Strike Back,2017,109.0,Hark Tsui,Adventure,Comedy,Family,5.4,59.0,63300000.0,247585244.0,26.0,20.0
+Dumb and Dumber,1994,107.0,Peter Farrelly,Comedy,-,-,7.3,41.0,17000000.0,247290327.0,510.0,81.0
+Glass,2019,129.0,M. Night Shyamalan,Drama,Horror,Sci-Fi,6.6,43.0,20000000.0,246999039.0,2000.0,425.0
+Grown Ups 2,2013,101.0,Dennis Dugan,Comedy,-,-,5.3,19.0,80000000.0,246984278.0,355.0,140.0
+The Peanuts Movie,2015,88.0,Steve Martino,Animation,Adventure,Comedy,7.0,67.0,99000000.0,246233113.0,218.0,245.0
+The Godfather,1972,175.0,Francis Ford Coppola,Crime,Drama,-,9.2,100.0,6000000.0,250341816.0,4900.0,275.0
+Rango,2011,107.0,Gore Verbinski,Animation,Action,Adventure,7.2,75.0,135000000.0,245724603.0,467.0,364.0
+Four Weddings and a Funeral,1994,117.0,Mike Newell,Comedy,Drama,Romance,7.1,81.0,4400000.0,245700832.0,277.0,71.0
+Face/Off,1997,138.0,John Woo,Action,Crime,Sci-Fi,7.3,82.0,80000000.0,245676146.0,662.0,136.0
+Teenage Mutant Ninja Turtles: Out of the Shadows,2016,112.0,Dave Green,Action,Adventure,Comedy,5.9,40.0,135000000.0,245623848.0,254.0,248.0
+Dark Shadows,2012,113.0,Tim Burton,Comedy,Fantasy,Horror,6.2,55.0,150000000.0,245527149.0,598.0,533.0
+Dolittle,2020,101.0,Stephen Gaghan,Adventure,Comedy,Family,5.6,26.0,175000000.0,245439115.0,832.0,191.0
+Hulk,2003,138.0,Ang Lee,Action,Sci-Fi,-,5.6,54.0,137000000.0,245285165.0,1500.0,277.0
+Love Actually,2003,135.0,Richard Curtis,Comedy,Drama,Romance,7.6,55.0,40000000.0,245203167.0,1200.0,236.0
+The Bravest,2019,118.0,Tony Chan,Action,Drama,Family,5.7,,,245179562.0,13.0,20.0
+Welcome to the Sticks,2008,106.0,Dany Boon,Comedy,Romance,-,7.1,,11000000.0,245144417.0,61.0,84.0
+Back to the Future Part III,1990,118.0,Robert Zemeckis,Adventure,Comedy,Sci-Fi,7.4,55.0,40000000.0,245077583.0,386.0,130.0
+Pixels,2015,105.0,Chris Columbus,Action,Comedy,Fantasy,5.6,27.0,88000000.0,244874809.0,522.0,287.0
+Hercules,2014,98.0,Brett Ratner,Action,Adventure,Fantasy,6.0,47.0,100000000.0,244819862.0,325.0,258.0
+Rush Hour,1998,98.0,Brett Ratner,Action,Comedy,Crime,7.0,60.0,33000000.0,244721064.0,387.0,84.0
+Journey to the Center of the Earth,2008,93.0,Eric Brevig,Action,Adventure,Family,5.8,57.0,60000000.0,244232688.0,252.0,189.0
+After Earth,2013,100.0,M. Night Shyamalan,Action,Adventure,Sci-Fi,4.8,33.0,130000000.0,243611982.0,919.0,274.0
+A Few Good Men,1992,138.0,Rob Reiner,Drama,Thriller,-,7.7,62.0,41000000.0,243240178.0,457.0,90.0
+Cloudy with a Chance of Meatballs,2009,90.0,Phil Lord,Animation,Adventure,Comedy,6.9,66.0,100000000.0,243006126.0,217.0,151.0
+8 Mile,2002,110.0,Curtis Hanson,Drama,Music,-,7.1,77.0,41000000.0,242875078.0,657.0,112.0
+Daddy's Home,2015,96.0,Sean Anders,Comedy,Family,-,6.1,42.0,50000000.0,242786137.0,217.0,176.0
+RoboCop,2014,117.0,José Padilha,Action,Crime,Sci-Fi,6.2,52.0,100000000.0,242688965.0,744.0,520.0
+Eraser,1996,115.0,Chuck Russell,Action,Crime,Thriller,6.1,56.0,100000000.0,242295562.0,159.0,81.0
+Alien: Covenant,2017,122.0,Ridley Scott,Horror,Sci-Fi,Thriller,6.4,65.0,97000000.0,240891763.0,2200.0,591.0
+Sully,2016,96.0,Clint Eastwood,Biography,Drama,-,7.4,74.0,60000000.0,240797623.0,537.0,417.0
+Assassin's Creed,2016,115.0,Justin Kurzel,Action,Adventure,Sci-Fi,5.7,36.0,125000000.0,240697856.0,721.0,339.0
+Click,2006,107.0,Frank Coraci,Comedy,Drama,Fantasy,6.4,45.0,82500000.0,240685326.0,844.0,160.0
+Legend of Deification,2020,110.0,Teng Cheng,Animation,Action,Adventure,6.5,,,240663149.0,24.0,11.0
+Resident Evil: Retribution,2012,95.0,Paul W.S. Anderson,Action,Adventure,Horror,5.3,39.0,65000000.0,240159255.0,474.0,253.0
+Die Hard 2,1990,124.0,Renny Harlin,Action,Thriller,-,7.1,67.0,70000000.0,240031274.0,428.0,161.0
+Crocodile Dundee II,1988,108.0,John Cornell,Action,Adventure,Comedy,5.7,41.0,14000000.0,239606210.0,89.0,37.0
+Planes,2013,91.0,Klay Hall,Animation,Adventure,Comedy,5.7,39.0,50000000.0,239258712.0,138.0,172.0
+Crazy Rich Asians,2018,,Jon M. Chu,Comedy,Drama,Romance,6.9,74.0,30000000.0,238843729.0,1200.0,259.0
+Batman & Robin,1997,125.0,Joel Schumacher,Action,Sci-Fi,-,3.7,28.0,125000000.0,238235719.0,1200.0,229.0
+Downton Abbey,2019,122.0,Michael Engler,Drama,Romance,-,7.4,64.0,13000000.0,237860050.0,488.0,181.0
+Gulliver's Travels,2010,85.0,Rob Letterman,Adventure,Comedy,Family,4.9,33.0,112000000.0,237382724.0,139.0,180.0
+Gone in 60 Seconds,2000,118.0,Dominic Sena,Action,Crime,Thriller,6.5,35.0,90000000.0,237202299.0,578.0,130.0
+Saturday Night Fever,1977,118.0,John Badham,Drama,Music,-,6.8,77.0,3000000.0,237113184.0,291.0,109.0
+Silver Linings Playbook,2012,122.0,David O. Russell,Comedy,Drama,Romance,7.7,81.0,21000000.0,236412453.0,927.0,478.0
+2 Fast 2 Furious,2003,107.0,John Singleton,Action,Crime,Thriller,5.9,38.0,76000000.0,236350661.0,465.0,124.0
+Howl's Moving Castle,2004,119.0,Hayao Miyazaki,Animation,Adventure,Family,8.2,80.0,24000000.0,236323601.0,527.0,240.0
+Hidden Figures,2016,127.0,Theodore Melfi,Biography,Drama,History,7.8,74.0,25000000.0,235956898.0,576.0,431.0
+A.I. Artificial Intelligence,2001,146.0,Steven Spielberg,Drama,Sci-Fi,-,7.2,65.0,100000000.0,235926552.0,2200.0,125.0
+Dead Poets Society,1989,128.0,Peter Weir,Comedy,Drama,-,8.1,79.0,16400000.0,235860116.0,732.0,115.0
+Spy,2015,,Paul Feig,Action,Comedy,-,7.0,75.0,65000000.0,235666219.0,561.0,385.0
+American Pie,1999,95.0,Paul Weitz,Comedy,-,-,7.0,58.0,11000000.0,235483004.0,849.0,98.0
+American Reunion,2012,113.0,Jon Hurwitz,Comedy,-,-,6.7,49.0,50000000.0,234989584.0,223.0,289.0
+Big Daddy,1999,93.0,Dennis Dugan,Comedy,Drama,-,6.4,41.0,34200000.0,234801895.0,325.0,85.0
+Alvin and the Chipmunks: The Road Chip,2015,92.0,Walt Becker,Animation,Adventure,Comedy,5.0,33.0,90000000.0,234798636.0,82.0,74.0
+The Imitation Game,2014,114.0,Morten Tyldum,Biography,Drama,Thriller,8.0,71.0,14000000.0,233555708.0,954.0,386.0
+Cruella,2021,134.0,Craig Gillespie,Adventure,Comedy,Crime,7.3,59.0,100000000.0,233503234.0,1900.0,330.0
+The Day the Earth Stood Still,2008,104.0,Scott Derrickson,Adventure,Drama,Sci-Fi,5.5,40.0,80000000.0,233093859.0,834.0,278.0
+American Wedding,2003,96.0,Jesse Dylan,Comedy,-,-,6.3,43.0,55000000.0,232722935.0,355.0,137.0
+The Girl with the Dragon Tattoo,2011,158.0,David Fincher,Crime,Drama,Mystery,7.8,71.0,90000000.0,232617430.0,816.0,526.0
+Juno,2007,96.0,Jason Reitman,Comedy,Drama,-,7.5,81.0,7500000.0,232372681.0,977.0,380.0
+Argo,2012,,Ben Affleck,Biography,Drama,Thriller,7.7,86.0,44500000.0,232325503.0,865.0,667.0
+Mr. Bean's Holiday,2007,90.0,Steve Bendelack,Comedy,Family,-,6.4,56.0,25000000.0,232225908.0,275.0,153.0
+The English Patient,1996,162.0,Anthony Minghella,Drama,Romance,War,7.4,87.0,27000000.0,231976425.0,547.0,126.0
+Sister Act,1992,100.0,Emile Ardolino,Comedy,Family,Music,6.4,51.0,31000000.0,231605150.0,150.0,35.0
+Annabelle Comes Home,2019,106.0,Gary Dauberman,Horror,Mystery,Thriller,5.9,53.0,30000000.0,231252591.0,867.0,243.0
+Constantine,2005,121.0,Francis Lawrence,Action,Fantasy,Horror,7.0,50.0,100000000.0,230884728.0,1100.0,286.0
+Get Smart,2008,110.0,Peter Segal,Action,Adventure,Comedy,6.5,54.0,80000000.0,230685453.0,463.0,267.0
+Space Jam,1996,88.0,Joe Pytka,Animation,Adventure,Comedy,6.5,59.0,80000000.0,230594962.0,287.0,87.0
+Life Is Beautiful,1997,116.0,Roberto Benigni,Comedy,Drama,Romance,8.6,59.0,20000000.0,230098753.0,1400.0,153.0
+The Heat,2013,117.0,Paul Feig,Action,Comedy,Crime,6.6,60.0,43000000.0,229930771.0,461.0,276.0
+Ghostbusters,2016,117.0,Paul Feig,Action,Comedy,Fantasy,6.9,60.0,144000000.0,229147509.0,2500.0,699.0
+Ghost Rider,2007,110.0,Mark Steven Johnson,Action,Fantasy,Thriller,5.2,35.0,110000000.0,228738393.0,773.0,291.0
+Encanto,2021,102.0,Jared Bush,Animation,Comedy,Family,7.3,75.0,50000000.0,253796129.0,1100.0,218.0
+Goodbye Mr. Loser,2015,104.0,Da-Mo Peng,Comedy,-,-,6.7,,,228122928.0,8.0,4.0
+Paddington 2,2017,103.0,Paul King,Adventure,Comedy,Family,7.8,88.0,40000000.0,227994792.0,283.0,427.0
+Sleepless in Seattle,1993,105.0,Nora Ephron,Comedy,Drama,Romance,6.8,72.0,21000000.0,227927165.0,294.0,84.0
+Lethal Weapon 2,1989,114.0,Richard Donner,Action,Crime,Thriller,7.2,70.0,28000000.0,227853986.0,217.0,86.0
+The Green Hornet,2011,119.0,Michel Gondry,Action,Comedy,Crime,5.8,39.0,120000000.0,227817248.0,499.0,443.0
+Out of Africa,1985,161.0,Sydney Pollack,Biography,Drama,Romance,7.1,69.0,31000000.0,227514205.0,261.0,77.0
+Youth,2017,135.0,Xiaogang Feng,Drama,Romance,War,7.0,69.0,,227091290.0,21.0,22.0
+Baby Driver,2017,113.0,Edgar Wright,Action,Crime,Drama,7.6,86.0,34000000.0,226945087.0,1200.0,498.0
+Immortals,2011,110.0,Tarsem Singh,Action,Drama,Fantasy,6.0,46.0,75000000.0,226904017.0,465.0,290.0
+Taken,2008,90.0,Pierre Morel,Action,Crime,Thriller,7.8,51.0,25000000.0,226837760.0,1100.0,274.0
+Percy Jackson & the Olympians: The Lightning Thief,2010,118.0,Chris Columbus,Adventure,Family,Fantasy,5.8,47.0,95000000.0,226497209.0,523.0,220.0
+Hansel & Gretel: Witch Hunters,2013,88.0,Tommy Wirkola,Action,Fantasy,Horror,6.1,23.0,50000000.0,226349749.0,370.0,365.0
+Valerian and the City of a Thousand Planets,2017,136.0,Luc Besson,Action,Adventure,Fantasy,6.4,51.0,177200000.0,225973340.0,1100.0,387.0
+Good Will Hunting,1997,126.0,Gus Van Sant,Drama,Romance,-,8.3,70.0,10000000.0,225933435.0,997.0,158.0
+Better Days,2019,135.0,Derek Tsang,Crime,Drama,Romance,7.5,83.0,,225918798.0,79.0,46.0
+Ford v Ferrari,2019,152.0,James Mangold,Action,Biography,Drama,8.1,81.0,97600000.0,225508210.0,1500.0,351.0
+Jumper,2008,88.0,Doug Liman,Action,Adventure,Sci-Fi,6.1,35.0,85000000.0,225132113.0,565.0,234.0
+The Social Network,2010,,David Fincher,Biography,Drama,-,7.8,95.0,40000000.0,224920375.0,1000.0,432.0
+Chicken Run,2000,84.0,Peter Lord,Animation,Adventure,Comedy,7.1,88.0,45000000.0,224834564.0,415.0,147.0
+Con Air,1997,115.0,Simon West,Action,Crime,Thriller,6.9,52.0,75000000.0,224012234.0,447.0,129.0
+Elf,2003,97.0,Jon Favreau,Adventure,Comedy,Family,7.0,64.0,33000000.0,225097437.0,609.0,132.0
+Interview with the Vampire: The Vampire Chronicles,1994,123.0,Neil Jordan,Drama,Fantasy,Horror,7.5,59.0,60000000.0,223664608.0,504.0,74.0
+Flightplan,2005,98.0,Robert Schwentke,Drama,Mystery,Thriller,6.3,53.0,55000000.0,223387299.0,662.0,217.0
+Yes Man,2008,104.0,Peyton Reed,Comedy,Romance,-,6.8,46.0,70000000.0,223241637.0,334.0,184.0
+Non-Stop,2014,106.0,Jaume Collet-Serra,Action,Mystery,Thriller,6.9,56.0,50000000.0,222809600.0,489.0,376.0
+"Honey, I Shrunk the Kids",1989,93.0,Joe Johnston,Adventure,Comedy,Family,6.4,63.0,18000000.0,222724172.0,108.0,44.0
+Fahrenheit 9/11,2004,122.0,Michael Moore,Documentary,Drama,War,7.5,67.0,6000000.0,222446882.0,1400.0,283.0
+Wild Wild West,1999,106.0,Barry Sonnenfeld,Action,Comedy,Sci-Fi,4.9,38.0,170000000.0,222104681.0,681.0,99.0
+Geostorm,2017,109.0,Dean Devlin,Action,Sci-Fi,Thriller,5.3,21.0,120000000.0,221600160.0,831.0,142.0
+Presumed Innocent,1990,127.0,Alan J. Pakula,Mystery,Thriller,-,6.9,72.0,20000000.0,221303188.0,109.0,44.0
+Jungle Cruise,2021,127.0,Jaume Collet-Serra,Action,Adventure,Comedy,6.6,50.0,200000000.0,220889446.0,1200.0,280.0
+Scary Movie 3,2003,84.0,David Zucker,Comedy,-,-,5.5,49.0,48000000.0,220673217.0,380.0,159.0
+Collateral,2004,,Michael Mann,Action,Crime,Drama,7.5,71.0,65000000.0,220239925.0,982.0,229.0
+Inferno,2016,121.0,Ron Howard,Action,Adventure,Crime,6.2,42.0,75000000.0,220021259.0,460.0,223.0
+Knocked Up,2007,129.0,Judd Apatow,Comedy,Drama,Romance,6.9,85.0,30000000.0,219922417.0,606.0,251.0
+Green Lantern,2011,114.0,Martin Campbell,Action,Adventure,Sci-Fi,5.5,39.0,200000000.0,219851172.0,730.0,436.0
+What Happens in Vegas,2008,99.0,Tom Vaughan,Comedy,Romance,-,6.1,36.0,35000000.0,219375562.0,184.0,72.0
+It's Complicated,2009,,Nancy Meyers,Comedy,Drama,Romance,6.5,57.0,85000000.0,219103655.0,249.0,186.0
+The Terminal,2004,128.0,Steven Spielberg,Comedy,Drama,Romance,7.4,55.0,60000000.0,219100084.0,815.0,157.0
+Captain Phillips,2013,134.0,Paul Greengrass,Action,Biography,Crime,7.8,82.0,55000000.0,218791811.0,690.0,507.0
+The Prince of Egypt,1998,99.0,Brenda Chapman,Animation,Adventure,Drama,7.1,64.0,70000000.0,218613188.0,465.0,102.0
+Jack Reacher,2012,130.0,Christopher McQuarrie,Action,Mystery,Thriller,7.0,50.0,60000000.0,218340595.0,610.0,413.0
+Kingdom of Heaven,2005,144.0,Ridley Scott,Action,Adventure,Drama,7.2,63.0,130000000.0,218122627.0,1000.0,229.0
+The Emoji Movie,2017,86.0,Tony Leondis,Animation,Adventure,Comedy,3.3,12.0,50000000.0,217776646.0,947.0,161.0
+Dracula Untold,2014,92.0,Gary Shore,Action,Drama,Fantasy,6.2,40.0,70000000.0,217124280.0,555.0,284.0
+Central Intelligence,2016,107.0,Rawson Marshall Thurber,Action,Comedy,Crime,6.3,52.0,50000000.0,216972543.0,277.0,240.0
+Million Dollar Baby,2004,132.0,Clint Eastwood,Drama,Sport,-,8.1,86.0,30000000.0,216763646.0,1300.0,260.0
+The Help,2011,146.0,Tate Taylor,Drama,-,-,8.1,62.0,25000000.0,216639112.0,637.0,295.0
+Twins,1988,107.0,Ivan Reitman,Comedy,Crime,-,6.1,53.0,15000000.0,216614388.0,132.0,45.0
+Little Women,2019,135.0,Greta Gerwig,Drama,Romance,-,7.8,91.0,40000000.0,216601214.0,1100.0,358.0
+Valentine's Day,2010,125.0,Garry Marshall,Comedy,Romance,-,5.7,34.0,52000000.0,216528528.0,270.0,191.0
+Bad Teacher,2011,92.0,Jake Kasdan,Comedy,Romance,-,5.6,47.0,20000000.0,216197492.0,366.0,252.0
+The Croods: A New Age,2020,95.0,Joel Crawford,Animation,Adventure,Comedy,6.9,56.0,65000000.0,215905815.0,289.0,108.0
+Clear and Present Danger,1994,141.0,Phillip Noyce,Action,Crime,Drama,6.9,74.0,62000000.0,215887717.0,173.0,53.0
+Ted 2,2015,115.0,Seth MacFarlane,Comedy,-,-,6.3,48.0,68000000.0,215863606.0,277.0,303.0
+Bram Stoker's Dracula,1992,128.0,Francis Ford Coppola,Drama,Fantasy,Horror,7.4,57.0,40000000.0,215862692.0,833.0,200.0
+Vertical Limit,2000,124.0,Martin Campbell,Action,Adventure,Drama,5.9,48.0,75000000.0,215663859.0,407.0,98.0
+Ghostbusters II,1989,108.0,Ivan Reitman,Action,Comedy,Fantasy,6.6,56.0,25000000.0,215394738.0,286.0,138.0
+The Patriot,2000,165.0,Roland Emmerich,Action,Drama,History,7.2,63.0,110000000.0,215294342.0,1200.0,172.0
+The Sorcerer's Apprentice,2010,109.0,Jon Turteltaub,Action,Adventure,Family,6.1,46.0,150000000.0,215283742.0,283.0,234.0
+Just Go with It,2011,117.0,Dennis Dugan,Comedy,Romance,-,6.4,33.0,80000000.0,214945591.0,322.0,200.0
+The Expendables 3,2014,126.0,Patrick Hughes,Action,Adventure,Thriller,6.1,35.0,80000000.0,214657577.0,424.0,340.0
+Dirty Dancing,1987,100.0,Emile Ardolino,Drama,Music,Romance,7.0,65.0,6000000.0,214577242.0,521.0,117.0
+Creed II,2018,130.0,Steven Caple Jr.,Drama,Sport,-,7.1,66.0,50000000.0,214215889.0,828.0,295.0
+Public Enemies,2009,140.0,Michael Mann,Action,Biography,Crime,7.0,70.0,100000000.0,214104620.0,677.0,359.0
+Smallfoot,2018,96.0,Karey Kirkpatrick,Animation,Adventure,Comedy,6.6,60.0,80000000.0,214115531.0,238.0,125.0
+The Bourne Identity,2002,119.0,Doug Liman,Action,Mystery,Thriller,7.9,68.0,60000000.0,214034224.0,976.0,243.0
+Disclosure,1994,128.0,Barry Levinson,Drama,Thriller,-,6.1,58.0,55000000.0,214015089.0,113.0,59.0
+Pulp Fiction,1994,154.0,Quentin Tarantino,Crime,Drama,-,8.9,94.0,8000000.0,213928762.0,3400.0,294.0
+The Aviator,2004,170.0,Martin Scorsese,Biography,Drama,-,7.5,77.0,110000000.0,213719942.0,880.0,265.0
+"Crouching Tiger, Hidden Dragon",2000,,Ang Lee,Action,Adventure,Drama,7.9,94.0,17000000.0,213525736.0,1700.0,282.0
+Braveheart,1995,178.0,Mel Gibson,Biography,Drama,History,8.4,68.0,72000000.0,213216216.0,1300.0,148.0
+Into the Woods,2014,125.0,Rob Marshall,Adventure,Comedy,Drama,5.9,69.0,50000000.0,212902372.0,955.0,344.0
+Bedtime Stories,2008,99.0,Adam Shankman,Adventure,Comedy,Family,6.0,33.0,80000000.0,212874864.0,145.0,139.0
+Miss Congeniality,2000,109.0,Donald Petrie,Action,Comedy,Crime,6.3,43.0,45000000.0,212742720.0,424.0,106.0
+Entrapment,1999,113.0,Jon Amiel,Action,Crime,Romance,6.3,54.0,66000000.0,212404396.0,310.0,108.0
+Ace Ventura: When Nature Calls,1995,90.0,Steve Oedekerk,Adventure,Comedy,Crime,6.4,45.0,30000000.0,212385533.0,222.0,71.0
+End of Days,1999,122.0,Peter Hyams,Action,Fantasy,Horror,5.8,33.0,100000000.0,211989043.0,560.0,174.0
+Bridget Jones's Baby,2016,123.0,Sharon Maguire,Comedy,Drama,Romance,6.5,59.0,35000000.0,211952420.0,160.0,197.0
+Fury,2014,134.0,David Ayer,Action,Drama,War,7.5,64.0,68000000.0,211822697.0,1000.0,370.0
+Battle Los Angeles,2011,116.0,Jonathan Liebesman,Action,Sci-Fi,-,5.7,37.0,70000000.0,211819354.0,939.0,358.0
+Australia,2008,165.0,Baz Luhrmann,Adventure,Drama,Romance,6.6,53.0,130000000.0,211787511.0,499.0,175.0
+Due Date,2010,95.0,Todd Phillips,Comedy,Drama,-,6.5,51.0,65000000.0,211780824.0,366.0,307.0
+Master and Commander: The Far Side of the World,2003,138.0,Peter Weir,Action,Adventure,Drama,7.4,81.0,150000000.0,211622535.0,785.0,260.0
+A Series of Unfortunate Events,2004,108.0,Brad Silberling,Adventure,Comedy,Family,6.8,62.0,140000000.0,211468235.0,653.0,179.0
+The Little Mermaid,1989,83.0,Ron Clements,Animation,Adventure,Comedy,7.6,88.0,40000000.0,211343479.0,316.0,112.0
+District 9,2009,112.0,Neill Blomkamp,Action,Sci-Fi,Thriller,7.9,81.0,30000000.0,210888950.0,1400.0,487.0
+Moonraker,1979,126.0,Lewis Gilbert,Action,Adventure,Sci-Fi,6.2,66.0,34000000.0,210308099.0,392.0,122.0
+The Others,2001,104.0,Alejandro Amenábar,Horror,Mystery,Thriller,7.6,74.0,17000000.0,209947037.0,1200.0,164.0
+Horrible Bosses,2011,98.0,Seth Gordon,Comedy,Crime,-,6.9,57.0,35000000.0,209838559.0,476.0,340.0
+Us and Them,2018,,Rene Liu,Drama,Romance,-,7.4,,,209221380.0,35.0,16.0
+Red Dragon,2002,124.0,Brett Ratner,Crime,Drama,Thriller,7.2,60.0,78000000.0,209196298.0,855.0,191.0
+Tomorrowland,2015,130.0,Brad Bird,Action,Adventure,Family,6.4,60.0,190000000.0,209035668.0,639.0,474.0
+Me Before You,2016,106.0,Thea Sharrock,Drama,Romance,-,7.4,51.0,20000000.0,208314186.0,562.0,226.0
+Safe House,2012,115.0,Daniel Espinosa,Action,Thriller,-,6.7,52.0,85000000.0,208076205.0,366.0,204.0
+S.W.A.T.,2003,117.0,Clark Johnson,Action,Adventure,Crime,6.0,45.0,80000000.0,207725639.0,366.0,133.0
+Traffic,2000,147.0,Steven Soderbergh,Crime,Drama,Thriller,7.6,86.0,48000000.0,207515725.0,913.0,178.0
+The Fast and the Furious,2001,106.0,Rob Cohen,Action,Crime,Thriller,6.8,58.0,38000000.0,207517509.0,1100.0,133.0
+Paranormal Activity 3,2011,83.0,Henry Joost,Horror,Mystery,-,5.8,59.0,5000000.0,207039844.0,357.0,251.0
+Philadelphia,1993,125.0,Jonathan Demme,Drama,-,-,7.7,66.0,26000000.0,206678440.0,319.0,68.0
+Sleepy Hollow,1999,105.0,Tim Burton,Fantasy,Horror,Mystery,7.3,65.0,100000000.0,206071502.0,1000.0,244.0
+The Holiday,2006,136.0,Nancy Meyers,Comedy,Romance,-,6.9,52.0,85000000.0,205850134.0,687.0,165.0
+Raging Fire,2021,126.0,Benny Chan,Action,Adventure,Crime,6.6,72.0,,205846481.0,59.0,63.0
+The Jungle Book,1967,78.0,Wolfgang Reitherman,Animation,Adventure,Comedy,7.6,65.0,4000000.0,205843612.0,187.0,119.0
+London Has Fallen,2016,99.0,Babak Najafi,Action,Thriller,-,5.9,28.0,60000000.0,205754447.0,645.0,277.0
+The Break-Up,2006,106.0,Peyton Reed,Comedy,Drama,Romance,5.8,45.0,52000000.0,205668210.0,536.0,172.0
+Journey to the West,2013,110.0,Stephen Chow,Action,Adventure,Comedy,6.7,68.0,,205637183.0,67.0,57.0
+JFK,1991,189.0,Oliver Stone,Drama,History,Thriller,8.0,72.0,40000000.0,205405498.0,537.0,91.0
+White House Down,2013,131.0,Roland Emmerich,Action,Drama,Thriller,6.3,52.0,150000000.0,205366737.0,538.0,347.0
+A Dog's Purpose,2017,100.0,Lasse Hallström,Adventure,Comedy,Drama,7.2,43.0,22000000.0,205035819.0,449.0,145.0
+Ponyo,2008,101.0,Hayao Miyazaki,Animation,Adventure,Comedy,7.6,86.0,34000000.0,204826668.0,234.0,162.0
+Fun with Dick and Jane,2005,90.0,Dean Parisot,Comedy,Crime,-,6.1,47.0,100000000.0,204681899.0,312.0,124.0
+Eat Pray Love,2010,133.0,Ryan Murphy,Biography,Drama,Romance,5.8,50.0,60000000.0,204594016.0,400.0,213.0
+You Don't Mess with the Zohan,2008,113.0,Dennis Dugan,Action,Comedy,-,5.6,54.0,90000000.0,204313400.0,462.0,200.0
+The Addams Family,2019,86.0,Greg Tiernan,Animation,Comedy,Family,5.8,46.0,24000000.0,203783845.0,361.0,179.0
+King Arthur,2004,126.0,Antoine Fuqua,Action,Adventure,Drama,6.3,46.0,120000000.0,203567857.0,954.0,93.0
+Hairspray,2007,117.0,Adam Shankman,Comedy,Drama,Musical,6.7,81.0,75000000.0,203627753.0,440.0,208.0
+Yogi Bear,2010,80.0,Eric Brevig,Animation,Adventure,Comedy,4.6,35.0,80000000.0,203509374.0,121.0,136.0
+Everest,2015,121.0,Baltasar Kormákur,Action,Adventure,Biography,7.1,64.0,55000000.0,203427584.0,379.0,393.0
+Vanilla Sky,2001,136.0,Cameron Crowe,Fantasy,Mystery,Romance,6.9,45.0,68000000.0,203388341.0,1300.0,151.0
+Arrival,2016,116.0,Denis Villeneuve,Drama,Sci-Fi,-,7.9,81.0,47000000.0,203388186.0,2100.0,735.0
+Need for Speed,2014,132.0,Scott Waugh,Action,Crime,Thriller,6.4,39.0,66000000.0,203277636.0,440.0,328.0
+Garfield,2004,80.0,Peter Hewitt,Animation,Adventure,Comedy,5.0,27.0,50000000.0,203172417.0,280.0,116.0
+Patch Adams,1998,115.0,Tom Shadyac,Biography,Comedy,Drama,6.8,25.0,90000000.0,202292902.0,444.0,53.0
+The Conjuring: The Devil Made Me Do It,2021,112.0,Michael Chaves,Horror,Mystery,Thriller,6.3,53.0,39000000.0,202031050.0,1300.0,276.0
+Teenage Mutant Ninja Turtles,1990,93.0,Steve Barron,Action,Adventure,Comedy,6.7,51.0,13500000.0,202084756.0,250.0,127.0
+Kindergarten Cop,1990,111.0,Ivan Reitman,Action,Comedy,Crime,6.2,61.0,15000000.0,201957688.0,164.0,58.0
+Birds of Prey,2020,109.0,Cathy Yan,Action,Adventure,Comedy,6.0,60.0,84500000.0,201872791.0,2600.0,412.0
+Straight Outta Compton,2015,147.0,F. Gary Gray,Biography,Drama,History,7.8,72.0,28000000.0,201634991.0,412.0,385.0
+21 Jump Street,2012,109.0,Phil Lord,Action,Comedy,Crime,7.2,69.0,42000000.0,201585328.0,451.0,384.0
+Valkyrie,2008,121.0,Bryan Singer,Drama,History,Thriller,7.1,56.0,75000000.0,201545517.0,498.0,179.0
+Open Season,2006,86.0,Roger Allers,Animation,Adventure,Comedy,6.1,49.0,85000000.0,200811689.0,134.0,100.0
+Cats & Dogs,2001,87.0,Lawrence Guterman,Action,Adventure,Comedy,5.1,47.0,60000000.0,200687492.0,244.0,95.0
+The Hunt for Red October,1990,135.0,John McTiernan,Action,Adventure,Thriller,7.6,58.0,30000000.0,200512643.0,340.0,116.0
+Percy Jackson: Sea of Monsters,2013,106.0,Thor Freudenthal,Adventure,Family,Fantasy,5.7,39.0,90000000.0,199850315.0,247.0,189.0
+Two Weeks Notice,2002,101.0,Marc Lawrence,Comedy,Romance,-,6.1,42.0,60000000.0,199043471.0,307.0,112.0
+RED,2010,111.0,Robert Schwentke,Action,Comedy,Crime,7.0,60.0,58000000.0,199006387.0,405.0,331.0
+Shock Wave 2,2020,,Herman Yau,Action,Crime,Thriller,6.6,,30000000.0,198921659.0,20.0,36.0
+City of Angels,1998,114.0,Brad Silberling,Drama,Fantasy,Romance,6.7,54.0,55000000.0,198685114.0,359.0,88.0
+The Pacifier,2005,95.0,Adam Shankman,Action,Comedy,Drama,5.6,30.0,56000000.0,198636868.0,255.0,129.0
+50 First Dates,2004,99.0,Peter Segal,Comedy,Drama,Romance,6.8,48.0,75000000.0,198520934.0,566.0,141.0
+Total Recall,2012,118.0,Len Wiseman,Action,Adventure,Sci-Fi,6.2,43.0,125000000.0,198467168.0,662.0,414.0
+The Island,2018,134.0,Bo Huang,Comedy,Drama,-,6.2,61.0,,198326350.0,18.0,15.0
+The Impossible,2012,114.0,J.A. Bayona,Adventure,Drama,History,7.5,73.0,45000000.0,198087212.0,522.0,384.0
+Lost in Thailand,2012,105.0,Zheng Xu,Adventure,Comedy,Drama,6.2,55.0,,197757387.0,12.0,19.0
+Christopher Robin,2018,104.0,Marc Forster,Adventure,Comedy,Drama,7.2,60.0,75000000.0,197744377.0,627.0,257.0
+Jack the Giant Slayer,2013,114.0,Bryan Singer,Action,Adventure,Fantasy,6.3,51.0,195000000.0,197687603.0,236.0,315.0
+Smurfs: The Lost Village,2017,90.0,Kelly Asbury,Animation,Adventure,Comedy,5.9,40.0,60000000.0,197183546.0,96.0,109.0
+Chinese Doctors,2021,129.0,Andrew Lau,Drama,-,-,4.7,,,197143218.0,8.0,2.0
+Spy Kids 3: Game Over,2003,84.0,Robert Rodriguez,Action,Adventure,Comedy,4.3,57.0,38000000.0,197101678.0,215.0,94.0
+Panic Room,2002,112.0,David Fincher,Crime,Drama,Thriller,6.8,65.0,48000000.0,197079546.0,957.0,233.0
+The Other Woman,2014,109.0,Nick Cassavetes,Comedy,Romance,-,6.0,39.0,40000000.0,196710396.0,251.0,224.0
+Stargate,1994,116.0,Roland Emmerich,Action,Adventure,Sci-Fi,7.0,42.0,55000000.0,196567262.0,330.0,104.0
+Beowulf,2007,115.0,Robert Zemeckis,Animation,Action,Adventure,6.3,59.0,150000000.0,196393745.0,565.0,288.0
+The Vow,2012,104.0,Michael Sucsy,Drama,Romance,-,6.8,43.0,30000000.0,196114570.0,211.0,211.0
+Ghostbusters: Afterlife,2021,124.0,Jason Reitman,Adventure,Comedy,Fantasy,7.2,45.0,75000000.0,197360575.0,1700.0,292.0
+Anger Management,2003,106.0,Peter Segal,Comedy,-,-,6.2,52.0,75000000.0,195745823.0,512.0,71.0
+Tropic Thunder,2008,107.0,Ben Stiller,Action,Comedy,War,7.0,71.0,92000000.0,195702963.0,698.0,323.0
+The Shape of Water,2017,123.0,Guillermo del Toro,Drama,Fantasy,Romance,7.3,87.0,19400000.0,195333312.0,1700.0,1000.0
+Rocketman,2019,121.0,Dexter Fletcher,Biography,Drama,Musical,7.3,69.0,40000000.0,195320400.0,1000.0,360.0
+The Pelican Brief,1993,141.0,Alan J. Pakula,Crime,Drama,Mystery,6.6,50.0,45000000.0,195268056.0,140.0,56.0
+The BFG,2016,117.0,Steven Spielberg,Adventure,Family,Fantasy,6.3,66.0,140000000.0,195243411.0,274.0,378.0
+The Intern,2015,121.0,Nancy Meyers,Comedy,Drama,-,7.1,51.0,35000000.0,194564672.0,596.0,266.0
+Wallace & Gromit: The Curse of the Were-Rabbit,2005,85.0,Steve Box,Animation,Adventure,Comedy,7.5,87.0,30000000.0,194137091.0,350.0,132.0
+Gnomeo & Juliet,2011,84.0,Kelly Asbury,Animation,Adventure,Comedy,5.9,53.0,36000000.0,193967670.0,136.0,207.0
+Weathering with You,2019,112.0,Makoto Shinkai,Animation,Drama,Fantasy,7.5,72.0,11100000.0,193932489.0,263.0,128.0
+The Sum of All Fears,2002,124.0,Phil Alden Robinson,Action,Drama,Thriller,6.4,45.0,68000000.0,193921372.0,617.0,168.0
+Gangs of New York,2002,167.0,Martin Scorsese,Crime,Drama,-,7.5,72.0,100000000.0,193772504.0,1200.0,224.0
+The Monkey King 2,2016,119.0,Soi Cheang,Action,Adventure,Fantasy,5.9,,68005000.0,193678298.0,21.0,22.0
+Paranormal Activity,2007,86.0,Oren Peli,Horror,Mystery,-,6.3,68.0,15000.0,193355800.0,1300.0,307.0
+The Equalizer,2014,132.0,Antoine Fuqua,Action,Crime,Thriller,7.2,57.0,55000000.0,192330738.0,705.0,321.0
+The Lego Movie 2: The Second Part,2019,107.0,Mike Mitchell,Animation,Action,Adventure,6.6,65.0,99000000.0,192456290.0,428.0,239.0
+Sheep Without a Shepherd,2019,112.0,Sam Quah,Crime,Drama,Thriller,6.8,73.0,,191602146.0,15.0,27.0
+The Addams Family,1991,99.0,Barry Sonnenfeld,Comedy,Fantasy,-,6.9,57.0,30000000.0,191502426.0,194.0,77.0
+The Longest Yard,2005,113.0,Peter Segal,Comedy,Crime,Sport,6.4,48.0,82000000.0,191466556.0,362.0,133.0
+The Santa Clause,1994,97.0,John Pasquin,Comedy,Drama,Family,6.5,57.0,22000000.0,190539357.0,182.0,86.0
+Cheaper by the Dozen,2003,98.0,Shawn Levy,Comedy,Family,-,5.9,46.0,40000000.0,190538630.0,306.0,106.0
+The Equalizer 2,2018,121.0,Antoine Fuqua,Action,Crime,Thriller,6.7,50.0,62000000.0,190400157.0,793.0,239.0
+Hollow Man,2000,112.0,Paul Verhoeven,Action,Horror,Sci-Fi,5.8,24.0,95000000.0,190213455.0,687.0,184.0
+Outbreak,1995,127.0,Wolfgang Petersen,Action,Drama,Thriller,6.6,64.0,50000000.0,189859560.0,233.0,80.0
+The White Storm 2: Drug Lords,2019,99.0,Herman Yau,Action,Crime,-,6.0,,25000000.0,189396380.0,13.0,16.0
+The X Files,1998,121.0,Rob Bowman,Drama,Mystery,Sci-Fi,7.0,60.0,66000000.0,189176423.0,331.0,143.0
+Breakup Buddies,2014,116.0,Hao Ning,Comedy,Drama,Romance,6.4,,,189017596.0,6.0,10.0
+Rambo III,1988,102.0,Peter MacDonald,Action,Adventure,Thriller,5.8,36.0,63000000.0,189015611.0,251.0,117.0
+The Secret Life of Walter Mitty,2013,114.0,Ben Stiller,Adventure,Comedy,Drama,7.3,54.0,90000000.0,188133322.0,757.0,377.0
+Project Gutenberg,2018,130.0,Felix Chong,Action,Crime,Mystery,6.8,,,188116796.0,31.0,20.0
+Jaws 2,1978,116.0,Jeannot Szwarc,Adventure,Horror,Thriller,5.8,51.0,20000000.0,187884007.0,364.0,110.0
+12 Years a Slave,2013,134.0,Steve McQueen,Biography,Drama,History,8.1,96.0,20000000.0,187733202.0,957.0,487.0
+Heat,1995,170.0,Michael Mann,Action,Crime,Drama,8.3,76.0,60000000.0,187436818.0,1200.0,209.0
+Mr. Popper's Penguins,2011,94.0,Mark Waters,Comedy,Family,Fantasy,6.0,53.0,55000000.0,187361754.0,147.0,181.0
+The Grudge,2004,91.0,Takashi Shimizu,Horror,Mystery,Thriller,5.9,49.0,10000000.0,187281115.0,949.0,214.0
+I Now Pronounce You Chuck & Larry,2007,115.0,Dennis Dugan,Comedy,Romance,-,5.9,37.0,85000000.0,187134117.0,279.0,169.0
+The Horse Whisperer,1998,169.0,Robert Redford,Drama,Romance,Western,6.7,65.0,60000000.0,186883563.0,292.0,75.0
+Walk the Line,2005,136.0,James Mangold,Biography,Drama,Music,7.8,72.0,28000000.0,186797986.0,926.0,268.0
+Jian Bing Man,2015,113.0,Chengpeng Dong,Comedy,-,-,5.6,,12880000.0,186699768.0,6.0,2.0
+The Jungle Book 2,2003,72.0,Steve Trenbirth,Animation,Adventure,Comedy,5.3,38.0,20000000.0,186303759.0,73.0,77.0
+The Final Destination,2009,82.0,David R. Ellis,Action,Horror,Thriller,5.1,30.0,40000000.0,186167139.0,369.0,219.0
+Atlantis: The Lost Empire,2001,95.0,Gary Trousdale,Animation,Action,Adventure,6.9,52.0,120000000.0,186053725.0,356.0,143.0
+Inside Man,2006,129.0,Spike Lee,Crime,Drama,Mystery,7.6,76.0,45000000.0,186003591.0,780.0,221.0
+The Waterboy,1998,90.0,Frank Coraci,Comedy,Sport,-,6.1,41.0,23000000.0,185991646.0,360.0,87.0
+Hugo,2011,126.0,Martin Scorsese,Adventure,Drama,Family,7.5,83.0,150000000.0,185770310.0,816.0,699.0
+Pitch Perfect 3,2017,93.0,Trish Sie,Comedy,Music,-,5.8,40.0,45000000.0,185400345.0,200.0,144.0
+Watchmen,2009,162.0,Zack Snyder,Action,Drama,Mystery,7.6,56.0,130000000.0,185382813.0,1500.0,475.0
+The Birdcage,1996,117.0,Mike Nichols,Comedy,-,-,7.1,72.0,31000000.0,185260553.0,232.0,59.0
+Moulin Rouge!,2001,127.0,Baz Luhrmann,Drama,Musical,Romance,7.6,66.0,50000000.0,184935320.0,2300.0,201.0
+Snow White and the Seven Dwarfs,1937,83.0,William Cottrell,Animation,Adventure,Family,7.6,95.0,1499000.0,184925486.0,308.0,127.0
+Hop,2011,95.0,Tim Hill,Animation,Adventure,Comedy,5.4,41.0,63000000.0,184367145.0,115.0,146.0
+Bad Moms,2016,100.0,Jon Lucas,Comedy,-,-,6.2,60.0,20000000.0,183936074.0,312.0,205.0
+Jupiter Ascending,2015,127.0,Lana Wachowski,Action,Adventure,Sci-Fi,5.3,40.0,176000000.0,183887723.0,987.0,324.0
+Knowing,2009,121.0,Alex Proyas,Action,Mystery,Sci-Fi,6.2,41.0,50000000.0,183658498.0,979.0,283.0
+102 Dalmatians,2000,100.0,Kevin Lima,Adventure,Comedy,Family,4.8,35.0,85000000.0,183611771.0,96.0,83.0
+Stand by Me Doraemon,2014,95.0,Tony Oliver,Animation,Comedy,Drama,7.4,,35000000.0,183442714.0,38.0,23.0
+Storks,2016,87.0,Nicholas Stoller,Animation,Adventure,Comedy,6.8,56.0,70000000.0,183510278.0,147.0,140.0
+Paul Blart: Mall Cop,2009,91.0,Steve Carr,Action,Comedy,Crime,5.2,39.0,26000000.0,183348429.0,261.0,158.0
+Wayne's World,1992,94.0,Penelope Spheeris,Comedy,Music,-,7.0,57.0,20000000.0,183097323.0,217.0,76.0
+Maverick,1994,127.0,Richard Donner,Action,Adventure,Comedy,7.0,62.0,75000000.0,183031272.0,144.0,53.0
+Mirror Mirror,2012,106.0,Tarsem Singh,Adventure,Comedy,Drama,5.6,46.0,85000000.0,183018522.0,239.0,385.0
+The Man in the Iron Mask,1998,132.0,Randall Wallace,Action,Adventure,Drama,6.5,48.0,35000000.0,182968902.0,283.0,84.0
+Cape Fear,1991,128.0,Martin Scorsese,Crime,Thriller,-,7.3,73.0,35000000.0,182291969.0,390.0,139.0
+The Haunted Mansion,2003,88.0,Rob Minkoff,Comedy,Family,Fantasy,5.0,34.0,90000000.0,182290266.0,218.0,136.0
+The Monkey King Havoc in Heavens Palace,2014,90.0,Soi Cheang,Action,Adventure,Family,4.9,,100000000.0,182206924.0,40.0,22.0
+While You Were Sleeping,1995,103.0,Jon Turteltaub,Comedy,Drama,Romance,6.7,67.0,17000000.0,182057016.0,242.0,69.0
+The Bridges of Madison County,1995,135.0,Clint Eastwood,Drama,Romance,-,7.6,69.0,24000000.0,182016617.0,279.0,77.0
+From Vegas to Macau III,2016,113.0,Andrew Lau,Comedy,Drama,-,2.3,,,181732879.0,10.0,5.0
+Poseidon,2006,98.0,Wolfgang Petersen,Action,Adventure,Thriller,5.7,50.0,160000000.0,181674817.0,714.0,224.0
+The First Wives Club,1996,103.0,Hugh Wilson,Comedy,-,-,6.4,58.0,26000000.0,181489203.0,144.0,47.0
+Cliff Walkers,2021,,Yimou Zhang,Crime,Drama,Thriller,6.6,,,181325565.0,14.0,32.0
+Scooby-Doo 2: Monsters Unleashed,2004,93.0,Raja Gosnell,Adventure,Comedy,Family,5.1,34.0,80000000.0,181239132.0,204.0,101.0
+Hot Shots!,1991,84.0,Jim Abrahams,Action,Comedy,-,6.7,61.0,26000000.0,181096164.0,117.0,50.0
+Road to Perdition,2002,117.0,Sam Mendes,Crime,Drama,Thriller,7.7,72.0,80000000.0,181001478.0,1100.0,207.0
+Kill Bill: Vol. 1,2003,111.0,Quentin Tarantino,Action,Crime,Drama,8.2,69.0,30000000.0,180906076.0,2400.0,330.0
+The Scorpion King,2002,92.0,Chuck Russell,Action,Adventure,Fantasy,5.5,45.0,60000000.0,180630907.0,458.0,164.0
+Sweet Home Alabama,2002,108.0,Andy Tennant,Comedy,Romance,-,6.2,45.0,30000000.0,180622424.0,435.0,77.0
+Daddy's Home 2,2017,100.0,Sean Anders,Comedy,-,-,6.0,30.0,69000000.0,180613824.0,256.0,146.0
+Hacksaw Ridge,2016,139.0,Mel Gibson,Biography,Drama,History,8.1,71.0,40000000.0,180563636.0,1000.0,477.0
+Deja Vu,2006,126.0,Tony Scott,Action,Crime,Sci-Fi,7.1,59.0,75000000.0,180557550.0,516.0,192.0
+The Post,2017,116.0,Steven Spielberg,Drama,-,-,7.2,83.0,50000000.0,180419276.0,513.0,448.0
+Abominable,2019,97.0,Jill Culton,Animation,Adventure,Comedy,7.0,61.0,75000000.0,180733970.0,291.0,142.0
+Dangerous Minds,1995,99.0,John N. Smith,Biography,Drama,-,6.5,47.0,23000000.0,179519401.0,108.0,43.0
+The Dictator,2012,83.0,Larry Charles,Comedy,-,-,6.4,58.0,65000000.0,179379533.0,430.0,313.0
+The League of Extraordinary Gentlemen,2003,110.0,Stephen Norrington,Action,Adventure,Fantasy,5.8,30.0,78000000.0,179265204.0,856.0,200.0
+Allegiant,2016,,Robert Schwentke,Action,Adventure,Mystery,5.7,33.0,110000000.0,179246868.0,250.0,216.0
+Daredevil,2003,103.0,Mark Steven Johnson,Action,Crime,-,5.3,42.0,78000000.0,179179718.0,1000.0,281.0
+City Slickers,1991,113.0,Ron Underwood,Comedy,Western,-,6.8,70.0,27000000.0,179033791.0,107.0,54.0
+He's Just Not That Into You,2009,129.0,Ken Kwapis,Comedy,Drama,Romance,6.4,47.0,40000000.0,178866158.0,267.0,159.0
+Eagle Eye,2008,118.0,D.J. Caruso,Action,Mystery,Thriller,6.6,43.0,80000000.0,178767383.0,402.0,209.0
+Along Came Polly,2004,90.0,John Hamburg,Comedy,Romance,-,6.0,44.0,42000000.0,178311729.0,303.0,62.0
+Flushed Away,2006,85.0,David Bowers,Animation,Action,Adventure,6.6,74.0,149000000.0,178281554.0,155.0,139.0
+Scary Movie 4,2006,83.0,David Zucker,Comedy,-,-,5.1,40.0,45000000.0,178262620.0,431.0,142.0
+Dante's Peak,1997,108.0,Roger Donaldson,Action,Adventure,Thriller,6.0,43.0,116000000.0,178127760.0,345.0,63.0
+Brokeback Mountain,2005,134.0,Ang Lee,Drama,Romance,-,7.7,87.0,14000000.0,178062759.0,2400.0,240.0
+Patriot Games,1992,117.0,Phillip Noyce,Action,Thriller,-,6.8,64.0,45000000.0,178051587.0,178.0,63.0
+Flubber,1997,93.0,Les Mayfield,Comedy,Family,Sci-Fi,5.3,37.0,80000000.0,177977226.0,88.0,52.0
+Baywatch,2017,116.0,Seth Gordon,Action,Comedy,Crime,5.5,37.0,69000000.0,177856751.0,517.0,335.0
+Double Jeopardy,1999,105.0,Bruce Beresford,Crime,Drama,Mystery,6.5,40.0,70000000.0,177841558.0,420.0,89.0
+War Horse,2011,146.0,Steven Spielberg,Action,Adventure,Drama,7.2,72.0,66000000.0,177584879.0,569.0,400.0
+Paranormal Activity 2,2010,91.0,Tod Williams,Horror,Mystery,-,5.7,53.0,3000000.0,177512032.0,404.0,217.0
+How to Lose a Guy in 10 Days,2003,116.0,Donald Petrie,Comedy,Romance,-,6.4,45.0,50000000.0,177502387.0,409.0,124.0
+Alien vs. Predator,2004,101.0,Paul W.S. Anderson,Action,Adventure,Horror,5.6,29.0,60000000.0,177427090.0,1400.0,150.0
+Hero,2002,,Yimou Zhang,Action,Adventure,Drama,7.9,85.0,31000000.0,177395557.0,893.0,158.0
+The 40-Year-Old Virgin,2005,116.0,Judd Apatow,Comedy,Romance,-,7.1,73.0,26000000.0,177378645.0,632.0,187.0
+Lee Daniels' The Butler,2013,132.0,Lee Daniels,Biography,Drama,-,7.2,65.0,30000000.0,177313795.0,377.0,308.0
+The Haunting,1999,113.0,Jan de Bont,Fantasy,Horror,Mystery,5.0,42.0,80000000.0,177311151.0,868.0,160.0
+The Descendants,2011,115.0,Alexander Payne,Comedy,Drama,-,7.3,84.0,20000000.0,177243185.0,517.0,548.0
+The A-Team,2010,117.0,Joe Carnahan,Action,Adventure,Thriller,6.7,47.0,110000000.0,177238796.0,438.0,325.0
+Tootsie,1982,116.0,Sydney Pollack,Comedy,Drama,Romance,7.4,88.0,21000000.0,177200000.0,262.0,98.0
+In the Line of Fire,1993,128.0,Wolfgang Petersen,Action,Crime,Drama,7.2,74.0,40000000.0,176997168.0,184.0,71.0
+Analyze This,1999,103.0,Harold Ramis,Comedy,Crime,-,6.7,61.0,80000000.0,176885658.0,363.0,118.0
+The Hitman's Bodyguard,2017,118.0,Patrick Hughes,Action,Comedy,Crime,6.9,47.0,30000000.0,176600207.0,620.0,303.0
+Looper,2012,119.0,Rian Johnson,Action,Drama,Sci-Fi,7.4,84.0,30000000.0,176506819.0,836.0,615.0
+Serial (Bad) Weddings,2014,97.0,Philippe de Chauveron,Comedy,-,-,7.0,,13000000.0,176404493.0,43.0,76.0
+Ip Man 4: The Finale,2019,107.0,Wilson Yip,Action,Biography,Drama,7.0,62.0,52000000.0,176345966.0,310.0,72.0
+Dr. Dolittle 2,2001,87.0,Steve Carr,Comedy,Family,Fantasy,4.7,49.0,70000000.0,176104344.0,87.0,84.0
+The Italian Job,2003,111.0,F. Gary Gray,Action,Crime,Thriller,7.0,68.0,60000000.0,176070171.0,571.0,162.0
+The Bucket List,2007,97.0,Rob Reiner,Adventure,Comedy,Drama,7.4,42.0,45000000.0,175372502.0,396.0,183.0
+Sleeping with the Enemy,1991,99.0,Joseph Ruben,Drama,Thriller,-,6.2,48.0,19000000.0,174999005.0,150.0,53.0
+Cowboys & Aliens,2011,119.0,Jon Favreau,Action,Sci-Fi,Thriller,6.0,50.0,163000000.0,174822325.0,586.0,440.0
+The Mule,2018,116.0,Clint Eastwood,Crime,Drama,Thriller,7.0,58.0,50000000.0,174804407.0,794.0,254.0
+George of the Jungle,1997,92.0,Sam Weisman,Action,Adventure,Comedy,5.5,53.0,55000000.0,174463257.0,126.0,62.0
+Evan Almighty,2007,96.0,Tom Shadyac,Comedy,Family,Fantasy,5.4,37.0,175000000.0,174440724.0,308.0,182.0
+Amélie,2001,122.0,Jean-Pierre Jeunet,Comedy,Romance,-,8.3,69.0,10000000.0,174118254.0,1500.0,151.0
+Identity Thief,2013,111.0,Seth Gordon,Comedy,Crime,Drama,5.7,35.0,35000000.0,173965010.0,297.0,260.0
+The Nutcracker and the Four Realms,2018,99.0,Lasse Hallström,Adventure,Family,Fantasy,5.5,39.0,120000000.0,173961069.0,474.0,175.0
+Big Momma's House,2000,99.0,Raja Gosnell,Action,Comedy,Crime,5.2,33.0,30000000.0,173959438.0,164.0,99.0
+In Time,2011,109.0,Andrew Niccol,Action,Sci-Fi,Thriller,6.7,53.0,40000000.0,173930596.0,646.0,364.0
+Operation Mekong,2016,123.0,Dante Lam,Action,Adventure,Crime,6.5,,30200000.0,173839072.0,25.0,36.0
