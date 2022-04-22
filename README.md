@@ -7,7 +7,6 @@
 - Data Analysis and Visulizations
 - Feature Engineering
 - Regression
-
 - Dummy variable
 
 
@@ -18,7 +17,7 @@ Dataset:
 
 Tools:
 - Technologies:Jupyter notebook,Python
-- libraries:Pandas,Numpy,Matplotlib,Seaborn,Request,BeautifulSoup,Statsmodel and Scikit-learn
+- Libraries:Pandas,Numpy,Matplotlib,Seaborn,Request,BeautifulSoup,Statsmodel and Scikit-learn
 
 Conclusion:
 - Linear Regression  algorithm has the best results.
