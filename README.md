@@ -10,6 +10,18 @@
 - Dummy variable
 
 
+- movie_name:Name of the movie
+- release_year: Year at which that movie released
+- runtime: Total runtime of the movie
+- rating: Rating of the movie at IMDB site
+- genre: Genre of the movie
+- metascore: Score earned by the movie
+- director: Name of the Director
+- gross: Money earned by that movie
+- budget:
+- critic_review:
+- user_review:
+- 
 Dataset: 
 - scraped from IMDB website
 - data Cleaning
