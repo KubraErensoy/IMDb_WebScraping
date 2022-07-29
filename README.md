@@ -4,7 +4,7 @@
  
  Bu projede en yüksek hasılata sahip  1000 filmi web scraping yöntemi ile  https://www.imdb.com/ adresinden çekildi.Dataset 13 sütundan oluşur. 
  
- Bu projenin amacı çektimiz featureların göz önünde bulundurarak , toplam hasılaatı tahmin edecek bir makine öğrenme modeli oluşturmaktır.
+ Bu projenin amacı çektiğimiz featureların göz önünde bulundurarak , toplam hasılatı tahmin edecek bir makine öğrenme modeli oluşturmaktır.
  
  ## Dataset
 
