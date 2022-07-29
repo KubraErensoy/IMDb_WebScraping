@@ -2,7 +2,8 @@
 
  Bir sinema filmi izlemek istersek nereden tavsiye alırız.İlk olarak arama motorunu kullanarak   aklımıza imdb sitesi gelir.İmdb sitesindeki bir film için oyuncular hakkında bilgi, filmler hakkında bilgi, yeni projeler, filmelere puan verme,filmleri yorum yapma gibi bilgileri bizlere sunar.
  
- Bu projede en yüksek hasılata sahip  1000 filmi web scraping yöntemi ile  https://www.imdb.com/ adresinden çekildi.Dataset 13 sütundan oluşur. 
+ Bu projede en yüksek hasılata sahip  1000 filmi web scraping yöntemi ile  https://www.imdb.com/ 
+ adresinden çekildi.Dataset 13 sütundan oluşur. 
  
  Bu projenin amacı çektiğimiz featureların göz önünde bulundurarak , toplam hasılatı tahmin edecek bir makine öğrenme modeli oluşturmaktır.
  
@@ -20,7 +21,4 @@
 - critic_review:Eleştirmen yorumları
 - user_review:Kullanıcı Yorumları
 
-## Sonuç
-- Linear Regression  algoritması en iyi sonuçu gösterdi
-- Polynomial Regression, Ridge Regression, Lasso Regression  benzer sonuçlara sahip.
 
