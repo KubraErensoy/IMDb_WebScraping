@@ -1,36 +1,26 @@
-## Predicting Top 1000 Highest-Grossing Movies of All Time Using Regression
+# Predicting Top 1000 Highest-Grossing Movies of All Time Using Regression
 
+ Bir sinema filmi izlemek istersek nereden tavsiye alırız.İlk olarak arama motorunu kullanarak   aklımıza imdb sitesi gelir.İmdb sitesindeki bir film için oyuncular hakkında bilgi, filmler hakkında bilgi, yeni projeler, filmelere puan verme,filmleri yorum yapma gibi bilgileri bizlere sunar.
+ 
+ Bu projede en yüksek hasılata sahip  1000 filmi web scraping yöntemi ile  https://www.imdb.com/ adresinden çekildi.Dataset 13 sütundan oluşur. 
+ 
+ Bu projenin amacı çektimiz featureların göz önünde bulundurarak , toplam hasılaatı tahmin edecek bir makine öğrenme modeli oluşturmaktır.
+ 
+ ## Dataset
 
-- Import Libraries
-- Data Exploration
-- Data Cleaning
-- Data Analysis and Visulizations
-- Feature Engineering
-- Regression
-- Dummy variable
+- movie_name:Filmin Adı
+- release_year:Filmin vizyone girdiği yıl
+- runtime: Filmin toplam süresi
+- rating: Filme verilen oy sayısı
+- genre: Filmin süresi
+- metascore: Filmin kazandığı oy
+- director: Yönetmen adı
+- gross: Filmden kazaılan hasılat
+- budget:Filme harcanılan bütçe
+- critic_review:Eleştirmen yorumları
+- user_review:Kullanıcı Yorumları
 
+## Sonuç
+- Linear Regression  algoritması en iyi sonuçu gösterdi
+- Polynomial Regression, Ridge Regression, Lasso Regression  benzer sonuçlara sahip.
 
-- movie_name:Name of the movie
-- release_year: Year at which that movie released
-- runtime: Total runtime of the movie
-- rating: Rating of the movie at IMDB site
-- genre: Genre of the movie
-- metascore: Score earned by the movie
-- director: Name of the Director
-- gross: Money earned by that movie
-- budget:
-- critic_review:
-- user_review:
-- 
-Dataset: 
-- scraped from IMDB website
-- data Cleaning
-- include: movie rate,grosss,release year, metascore ...
-
-Tools:
-- Technologies:Jupyter notebook,Python
-- Libraries:Pandas,Numpy,Matplotlib,Seaborn,Request,BeautifulSoup,Statsmodel and Scikit-learn
-
-Conclusion:
-- Linear Regression  algorithm has the best results.
-- Polynomial Regression, Ridge Regression, Lasso Regression  has similar scores.
